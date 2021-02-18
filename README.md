@@ -6,5 +6,10 @@ This repository contains the code and data required to reproduce the article "Co
 all the original data were stored in :
 * database file
 
-## 
-
+## scoring calculation
+Here we calculated with binary score. Supporting literature:
+* SCORING_PRED/ W02_scoring_of_PPI .pdf
+Run the calculation with .py file:
+* SCORING_PRED/ script_scoring.py
+* ReadMe_Modele.txt (french)
+* Cahier_Labo_Rayane.pdf (french)
