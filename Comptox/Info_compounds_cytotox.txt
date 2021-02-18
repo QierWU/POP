@@ -1,0 +1,65 @@
+Dates d'accès : 10,12,15,19		04/2019
+
+	Aldrin					: Cytotox limit = 37.36 µM
+	Chlordane				: Cytotox limit = 49.40 µM
+	DDT					: Cytotox limit = 29.65 µM
+	Dieldrin				: Cytotox limit = 45.68 µM
+	Endrin					: Cytotox limit = 24.22 µM
+	Heptachlor				: Cytotox limit = 42.59 µM
+	Hexachlorobenzene			: - Pas d'essais actifs
+	Mirex					: Cytotox limit =  0.23 µM
+	Toxaphene				: Cytotox limit = 41.92 µM
+	
+
+	3,3',4,4'-Tetrachlorobiphenyl			 |
+	3,4,4',5-Tetrachlorobiphenyl			 |
+	3,3',4,4',5-Pentachlorobiphenyl			 |
+	3,3',4,4',5,5'-Hexachlorobiphenyl		 |
+	2,3,3',4,4'-Pentachlorobiphenyl			 |
+	2,3,4,4',5-Pentachlorobiphenyl			 |
+	2,3',4,4',5-Pentachlorobiphenyl			  > Ces composés n'ont aucune info sur Toxcast, ce sont des PCBs de type Dioxin like
+	2,3',4,4',5'-Pentachlorobiphenyl		 |
+	2,3,3',4,4',5-Hexachlorobiphenyl		 |
+	2,3,3',4,4',5'-Hexachlorobiphenyl		 |
+	2,3',4,4',5,5'-Hexachlorobiphenyl		 |
+	2,3,3',4,4',5,5'-Heptachlorobiphenyl		 |
+
+	Pas d'info TOXCAST pour ces composés mais info pour les composés suivants : 
+	2,2'-Dichlorobiphenyl				: Cytotox limit = 64.03 µM
+	2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl	: Cytotox limit = 14.05 µM
+	2,2',4,4',5,5'-Hexachlorobiphenyl		: Cytotox limit = ? => pas assez de données pour déterminer une limite de cytotoxicité AC50
+	
+
+	
+	
+
+	TCDD					: Cytotox limit =  0.25 µM
+	2,3,7,8-Tetrachlorodibenzofuran
+	Alpha Hexachlorocyclohexane		: Cytotox limit = 49.21 µM
+	Beta Hexachlorocyclohexane		: Cytotox limit = 52.12 µM
+	Chlordecone				: Cytotox limit = 40.74 µM
+	Decabromodiphenyl ether 		: Cytotox limit = -     µM
+	Hexabromobiphenyl 			: Cytotox limit = -
+	Hexabromocyclododecane  		: Cytotox limit = 40.27 µM
+	Hexabromodiphenyl ether  		: Cytotox limit = 30.50	µM <= Isomère utilisé 
+										(CAS = 68631-49-2)
+
+
+	Heptabromodiphenyl ether  		: Cytotox limit = -
+	Hexachlorobutadiene  			: Cytotox limit = 26.09 µM
+	Lindane  				: Cytotox limit = 43.94 µM
+	Pentachlorobenzene 	 		: Cytotox limit = 25.37 µM
+	Pentachlorophenol  			: Cytotox limit = 17.17 µM
+	Perfluorooctane sulfonic acid 		: Cytotox limit = 37.26 µM
+
+	perfluorooctane sulfonyl fluoride 	: Cytotox limit = -  Pas d'info sur TOXCAST
+
+
+
+	1,2,3,4,6,7,10-Heptachlorododecane  	: Cytotox limit = 43.16 µM
+	Technical endosulfan  			: Cytotox limit = 62.79 µM
+	Tetrabromodiphenyl ether 		: Cytotox limit = 38.28 µM
+	pentabromodiphenyl ether 		: Cytotox limit = 31.76 µM
+	1-Chloronaphthalene			: Cytotox limit = 40.27 µM
+
+

@@ -1,0 +1,13 @@
+COMPOUND	CAS	INFO	Cytotox (uM)	Commentaire
+PCB 18	37680-65-2 	-		Pas d’info sur la base de données Comptox/Toxcast
+PCB 153	35065-27-1 	TOXCAST	1000	OK ?
+BDE 47	5436-43-1 	TOXCAST	7,41	Pas d’essais actifs en dessous du seuil de cytotox
+BDE 99	60348-60-9 	TOXCAST	6,15	Un seul essai actif mais pas de prot associée 
+BDE 153	68631-49-2 	TOXCAST	5,9	Pas d’essais actifs en dessous du seuil de cytotox
+p,p'-DDE	72-55-9 	TOXCAST	7,5	OK
+HCBD	87-68-3 	TOXCAST	5,05	OK
+PFOS	1763-23-1 	TOXCAST	7,21	OK
+anthracene 	(120-12-07)	TOXCAST	24,19	OK
+phenanthrene	(85-01-08)	TOXCAST	7,7	OK
+chrysene	(218-01-09)	TOXCAST	1000	OK ?
+pyrene	129-00-0 	TOXCAST	6,51	Pas d’essais actifs en dessous du seuil de cytotox

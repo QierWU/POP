@@ -1,0 +1,17 @@
+Gene_Name;Event;AOP;AOP_Name;Occurence
+NR1I2;245;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;30
+ESR1;1181;200;Estrogen receptor activation leading to breast cancer;53
+AR;1134;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;38
+NR1I3;715;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;17
+NR1H3;167;58;NR1I3 (CAR) suppression leading to hepatic steatosis;10
+KDR;305;43;Disruption of VEGFR Signaling Leading to Developmental Defects;9
+NR1H4;479;61;NFE2L2/FXR activation leading to hepatic steatosis;28
+NR3C1;654;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;14
+PPARG;1028;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;9
+PPARA;167;58;NR1I3 (CAR) suppression leading to hepatic steatosis;5
+CYP19A1;964;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;6
+AHR;18;150;Aryl hydrocarbon receptor activation leading to early life stage mortality, via reduced VEGF;3
+PPARD;232;36;Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis;2
+PTGS1;1103;177;Cyclooxygenase 1 (COX1) inhibition leading to renal failure and mortality;1
+TPO;279;175;Thyroperoxidase inhibition leading to altered amphibian metamorphosis;1
+PTGS2;79;103;Cyclooxygenase inhibition leading to reproductive dysfunction via interference with spindle assembly checkpoint;1

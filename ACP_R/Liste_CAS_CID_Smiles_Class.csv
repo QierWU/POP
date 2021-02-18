@@ -1,0 +1,30 @@
+CAS N°,CID,NAME,SMILES,N°,CATEGORIE
+309-00-2 ,24860538,Aldrin,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,1,Pesticide
+57-74-9 ,5993,Chlordane,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,2,Pesticide
+50-29-3 ,3036,Dichlorodiphenyltrichloroethane ,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,3,Pesticide
+60-57-1 ,969491,Dieldrin,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,4,Pesticide
+72-20-8 ,3048,Endrin,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,5,Pesticide
+76-44-8 ,3589,Heptachlor,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,6,Pesticide
+118-74-1 ,8370,Hexachlorobenzene,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,7,PIU
+2385-85-5 ,16945,Mirex,C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl,8,Pesticide
+8001-35-2 ,5284469,Toxaphene,C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl,9,Pesticide
+13029-08-08,23321102,"2,2'-Dichlorobiphenyl",C1C=CC=C(C1(Cl)Cl)C2=CC=CC=C2,10,IU
+52663-68-0 ,178007,"2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl",C1=C(C(=CC(=C1Cl)Cl)Cl)C2=C(C(=C(C(=C2Cl)Cl)O)Cl)Cl,11,IU
+35065-27-1 ,37034,"2,2',4,4',5,5'-Hexachlorobiphenyl",C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl)Cl,12,IU
+1746-01-06,15625,"2,3,7,8-Tetrachlorodibenzodioxin",C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C=C3O2)Cl)Cl,13,Unintentional
+319-84-6 ,727,"alpha-1,2,3,4,5,6-Hexachlorocyclohexane ",Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H](Cl)[C@H]1Cl ,14,Pesticide
+319-85-7 ,727,Beta-Hexachlorocyclohexane,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@@H](Cl)[C@@H]1Cl ,15,Pesticide
+143-50-0 ,299,Kepone,C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,16,Pesticide
+1163-19-5 ,14410,"1,1'-Oxybis[2,3,4,5,6-pentabromobenzene] ",C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)OC2=C(C(=C(C(=C2Br)Br)Br)Br)Br,17,Industrial
+3194-55-6  ,11763618,"1,2,5,6,9,10-Hexabromocyclododecane ",C1CC(C(CCC(C(CCC(C1Br)Br)Br)Br)Br)Br,18,Industrial
+68631-49-2 ,155166,"2,2',4,4',5,5'-Hexabromodiphenyl ether",C1=C(C(=CC(=C1Br)Br)Br)OC2=CC(=C(C=C2Br)Br)Br,19,Industrial
+87-68-3 ,6901,"Hexachloro-1,3-butadiene",C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,20,IU
+58-89-9 ,727,Lindane,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl ,21,Pesticide
+608-93-5 ,11855,Pentachlorobenzene,C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,22,PIU
+87-86-5 ,992,Pentachlorophenol,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,23,Pesticide
+1763-23-1 ,74483,Perfluorooctanesulfonic acid,C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,24,PIU
+NOCAS_24824 ,5284361,"Chlorinated paraffins:C12, 60% chlorine",CCC(CCC(C(CC(C(C(CCl)Cl)Cl)Cl)Cl)Cl)Cl,25,Industrial
+959-98-8 ,12309460,Endosulfan I,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,26,Pesticide
+5436-43-1 ,95170,"2,2',4,4'-Tetrabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=C(C=C(C=C2)Br)Br,27,Industrial
+60348-60-9 ,36159,"2,2',4,4',5-Pentabromodiphenyl ether",C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br,28,Industrial
+90-13-1 ,7003,1-Chloronaphthalene,C1=CC=C2C(=C1)C=CC=C2Cl,29,Unintentional

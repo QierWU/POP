@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555676052267.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "19|92|22|0|\n24|24|31|0|\n32|12|36|0|\n37|14|41|0|\n42|12|49|0|\n50|38|56|0|\n57|77|62|0|\n63|21|66|0|\n67|43|69|0|\n70|58|76|0|\n77|89|84|0|\n85|43|90|0|\n105|90|107|0|\n108|112|110|118|\n111|56|115|0|\n118|34|129|1|\n135|49|158|0|\n159|37|171|26|\n172|16|182|0|\n183|18|200|48|\n216|42|243|0|\n244|43|264|1|\n265|72|279|0|\n",
+    "hash" : "1494101125",
+    "id" : "D2AABFE9",
+    "lastKnownWriteTime" : 1558969056,
+    "last_content_update" : 1559121582438,
+    "path" : "C:/Users/yassine/Desktop/POPs/Rayane/ACP_R/Script_ACP_FINAL.R",
+    "project_path" : "Script_ACP_FINAL.R",
+    "properties" : {
+        "cursorPosition" : "166,40",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

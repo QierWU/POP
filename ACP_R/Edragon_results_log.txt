@@ -1,0 +1,48 @@
+dragonX version 1.2 - Command line version for Linux - v.1.2.2 - built on: 2007/02/01
+
+Licensed to: VCC-LAB - License type: VCC-LAB (Personal) - Expiration Date: none
+Decimal Separator set to: '.' - Thousands Separator set to: ','
+
+Selected calculation on MDL files
+Selected molecule name: Name within file
+Selected calculation on 3D molecules
+
+Selected descriptors block 1 (constitutional descriptors)
+Selected descriptors block 2 (topological descriptors)
+Selected descriptors block 3 (walk and path counts)
+Selected descriptors block 4 (connectivity indices)
+Selected descriptors block 5 (information indices)
+Selected descriptors block 6 (2D autocorrelations)
+Selected descriptors block 7 (edge adjacency indices)
+Selected descriptors block 8 (Burden eigenvalues descriptors)
+Selected descriptors block 9 (topological charge indices)
+Selected descriptors block 10 (eigenvalue-based indices)
+Selected descriptors block 11 (Randic molecular profiles)
+Selected descriptors block 12 (geometrical descriptors)
+Selected descriptors block 13 (RDF descriptors)
+Selected descriptors block 14 (3D-MoRSE descriptors)
+Selected descriptors block 15 (WHIM descriptors)
+Selected descriptors block 16 (GETAWAY descriptors)
+Selected descriptors block 17 (functional group counts)
+Selected descriptors block 18 (atom-centred fragments)
+Selected descriptors block 19 (charge descriptors)
+Selected descriptors block 20 (molecular properties)
+
+Selected descriptor blocks: 20
+Selected descriptors: 1664
+
+
+Selected descriptor blocks for PCs calculation: 0
+
+
+Total selected molecules: 30
+Total rejected molecules: 0
+
+Output file format: Dragon standard
+
+Saved files: 1
+results.txt
+
+Calculation time: 00 h 00 m 02 s
+
+Copyright 2003-2007 by Talete srl, Milano, Italy

@@ -1,0 +1,1569 @@
+Compound;Name;GENE NAME;AOP;AOP Name;Event;Event Name;Event Class;AC50;logAC50;Intended Target Family
+Aldrin; TOX21_p53_BLA_p4_ratio;TP53;-;-;-;-;-;0.571;-0.243;DNA binding
+Aldrin; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;-;-;-;-;0.800;-9.67e-2;malformation
+Aldrin; ATG_RARg_TRANS_up;RARG;-;-;-;-;-;0.912;-4.01e-2;nuclear receptor
+Aldrin; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.90;0.278;nuclear receptor
+Aldrin; BSK_BE3C_uPA_up;PLAU;-;-;-;-;-;2.20;0.342;protease
+Aldrin; TOX21_ERa_LUC_BG1_Agonist_Counterscreen;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;2.41;0.383;nuclear receptor
+Aldrin; ATG_DR5_CIS_up;RARB;-;;-;;;3.09;0.489;nuclear receptor
+Aldrin; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;4.04;0.606;nuclear receptor
+Aldrin; BSK_hDFCGF_Proliferation_down;-;-;-;-;-;-;4.45;0.648;cell cycle
+Aldrin; ATG_RXRb_TRANS_up;RXRB;-;-;-;-;-;7.17;0.855;nuclear receptor
+Aldrin; BSK_hDFCGF_VCAM1_down;VCAM1;-;-;-;-;-;7.33;0.865;cell adhesion molecules
+Aldrin; BSK_hDFCGF_SRB_down;-;-;-;-;-;-;7.45;0.872;cell cycle
+Aldrin; TOX21_ERb_BLA_Agonist_ratio;ESR2;-;-;-;-;-;8.48;0.928;nuclear receptor
+Aldrin; BSK_hDFCGF_IP10_down;CXCL10;-;-;-;-;-;8.77;0.943;cytokine
+Aldrin; BSK_KF3CT_MMP9_down;MMP9;-;-;-;-;-;8.89;0.949;protease
+Aldrin; BSK_3C_Proliferation_down;-;-;-;-;-;-;9.07;0.958;cell cycle
+Aldrin; ATG_VDRE_CIS_up;VDR;-;-;-;-;-;9.21;0.964;nuclear receptor
+Aldrin; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;9.26;0.967;nuclear receptor
+Aldrin; BSK_hDFCGF_TIMP1_down;TIMP1;-;-;-;-;-;9.26;0.967;protease inhibitor
+Aldrin; BSK_hDFCGF_PAI1_down;SERPINE1;-;-;-;-;-;9.31;0.969;cytokine
+Aldrin; BSK_BE3C_MMP1_up;MMP1;-;-;-;-;-;10.4;1.02;protease
+Aldrin; BSK_hDFCGF_CollagenIII_down;COL3A1;-;-;-;-;-;10.4;1.02;cell adhesion molecules
+Aldrin; TOX21_TSHR_Agonist_ratio;TSHR;-;-;-;-;-;11.1;1.04;gpcr
+Aldrin; BSK_KF3CT_IP10_down;CXCL10;-;-;-;-;-;11.2;1.05;cytokine
+Aldrin; BSK_hDFCGF_MCSF_down;CSF1;-;-;-;-;-;11.2;1.05;cytokine
+Aldrin; BSK_SAg_Proliferation_down;-;-;-;-;-;-;11.3;1.05;cell cycle
+Aldrin; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;11.7;1.07;nuclear receptor
+Aldrin; BSK_hDFCGF_MIG_down;CXCL9;-;-;-;-;-;11.9;1.08;cytokine
+Aldrin; BSK_SAg_PBMCCytotoxicity_down;-;-;-;-;-;-;12.0;1.08;cell cycle
+Aldrin; BSK_3C_uPAR_down;PLAUR;-;-;-;-;-;12.2;1.09;cytokine
+Aldrin; BSK_KF3CT_ICAM1_down;ICAM1;-;-;-;-;-;12.2;1.09;cell adhesion molecules
+Aldrin; BSK_hDFCGF_MMP1_down;MMP1;-;-;-;-;-;12.4;1.10;protease
+Aldrin; BSK_SAg_CD69_down;CD69;-;-;-;-;-;12.5;1.10;cytokine
+Aldrin; BSK_SAg_CD38_down;CD38;-;-;-;-;-;12.6;1.10;cytokine
+Aldrin; APR_HepG2_CellCycleArrest_72h_dn;-;-;-;-;-;-;13.0;1.11;cell cycle
+Aldrin; BSK_3C_IL8_down;CXCL8;-;-;-;-;-;13.3;1.12;cytokine
+Aldrin; ACEA_AR_antagonist_AUC_viability;-;-;-;-;-;-;13.9;1.14;cell cycle
+Aldrin; ATG_PBREM_CIS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;13.9;1.14;nuclear receptor
+Aldrin; ACEA_AR_agonist_AUC_viability;-;-;-;-;-;-;14.2;1.15;cell cycle
+Aldrin; BSK_3C_Eselectin_down;SELE;-;-;-;-;-;14.3;1.16;cell adhesion molecules
+Aldrin; BSK_CASM3C_TissueFactor_down;F3;-;-;-;-;-;14.4;1.16;cytokine
+Aldrin; BSK_LPS_Eselectin_down;SELE;-;-;-;-;-;14.6;1.16;cell adhesion molecules
+Aldrin; BSK_hDFCGF_IL8_down;CXCL8;-;-;-;-;-;14.6;1.16;cytokine
+Aldrin; BSK_LPS_VCAM1_down;VCAM1;-;-;-;-;-;14.8;1.17;cell adhesion molecules
+Aldrin; BSK_4H_MCP1_down;CCL2;-;-;-;-;-;14.8;1.17;cytokine
+Aldrin; BSK_KF3CT_TGFb1_down;TGFB1;-;-;-;-;-;15.5;1.19;growth factor
+Aldrin; BSK_BE3C_IP10_down;CXCL10;-;-;-;-;-;16.3;1.21;cytokine
+Aldrin; BSK_4H_SRB_down;-;-;-;-;-;-;16.7;1.22;cell cycle
+Aldrin; BSK_KF3CT_TIMP2_down;TIMP2;-;-;-;-;-;17.3;1.24;protease inhibitor
+Aldrin; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;-;-;-;-;17.9;1.25;nuclear receptor
+Aldrin; BSK_4H_Eotaxin3_down;CCL26;-;-;-;-;-;18.1;1.26;cytokine
+Aldrin; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;19.7;1.30;nuclear receptor
+Aldrin; BSK_4H_Pselectin_down;SELP;-;-;-;-;-;19.8;1.30;cell adhesion molecules
+Aldrin; APR_HepG2_MitoticArrest_24h_up;-;-;-;-;-;-;20.1;1.30;cell cycle
+Aldrin; BSK_SAg_MIG_down;CXCL9;-;-;-;-;-;20.4;1.31;cytokine
+Aldrin; ATG_EGR_CIS_up;EGR1;-;-;-;-;-;20.4;1.31;dna binding
+Aldrin; BSK_3C_VCAM1_down;VCAM1;-;-;-;-;-;20.5;1.31;cell adhesion molecules
+Aldrin; BSK_LPS_IL1a_down;IL1A;-;-;-;-;-;20.8;1.32;cytokine
+Aldrin; BSK_3C_HLADR_down;HLA-DRA;-;-;-;-;-;21.1;1.32;cell adhesion molecules
+Aldrin; BSK_KF3CT_MCP1_down;CCL2;-;-;-;-;-;21.2;1.33;cytokine
+Aldrin; BSK_KF3CT_uPA_down;PLAU;-;-;-;-;-;21.5;1.33;protease
+Aldrin; BSK_3C_SRB_down;-;-;-;-;-;-;21.7;1.34;cell cycle
+Aldrin; BSK_SAg_SRB_down;-;-;-;-;-;-;22.0;1.34;cell cycle
+Aldrin; BSK_SAg_CD40_down;CD40;-;-;-;-;-;22.3;1.35;cytokine
+Aldrin; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;22.5;1.35;nuclear receptor
+Aldrin; ATG_MRE_CIS_up;MTF1;-;-;-;-;-;22.6;1.35;dna binding
+Aldrin; BSK_LPS_SRB_down;-;-;-;-;-;-;23.3;1.37;cell cycle
+Aldrin; BSK_KF3CT_IL1a_down;IL1A;-;-;-;-;-;23.6;1.37;cytokine
+Aldrin; BSK_3C_MCP1_down;CCL2;-;-;-;-;-;24.3;1.38;cytokine
+Aldrin; ATG_NF_kB_CIS_up;NFKB1;-;-;-;-;-;24.4;1.39;dna binding
+Aldrin; BSK_SAg_IL8_down;CXCL8;-;-;-;-;-;24.6;1.39;cytokine
+Aldrin; BSK_CASM3C_SAA_down;SAA1;-;-;-;-;-;24.7;1.39;cell adhesion molecules
+Aldrin; BSK_CASM3C_MIG_down;CXCL9;-;-;-;-;-;24.7;1.39;cytokine
+Aldrin; BSK_3C_TissueFactor_down;F3;-;-;-;-;-;24.8;1.39;cytokine
+Aldrin; BSK_KF3CT_SRB_down;-;-;-;-;-;-;24.8;1.39;cell cycle
+Aldrin; TOX21_ESRE_BLA_viability;-;-;-;-;-;-;24.8;1.39;cell cycle
+Aldrin; BSK_BE3C_TGFb1_down;TGFB1;-;-;-;-;-;24.9;1.40;growth factor
+Aldrin; BSK_LPS_MCSF_down;CSF1;-;-;-;-;-;24.9;1.40;cytokine
+Aldrin; ATG_AP_1_CIS_up;FOS;-;-;-;-;-;25.7;1.41;dna binding
+Aldrin; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;25.8;1.41;kinase
+Aldrin; BSK_LPS_IL8_down;CXCL8;-;-;-;-;-;25.8;1.41;cytokine
+Aldrin; BSK_4H_VCAM1_down;VCAM1;-;-;-;-;-;26.0;1.42;cell adhesion molecules
+Aldrin; ATG_Oct_MLP_CIS_up;POU2F1;-;-;-;-;-;26.3;1.42;dna binding
+Aldrin; TOX21_PPARd_BLA_Agonist_viability;-;-;-;-;-;-;26.5;1.42;cell cycle
+Aldrin; BSK_CASM3C_Proliferation_down;-;-;-;-;-;-;26.5;1.42;cell cycle
+Aldrin; ATG_RORE_CIS_up;RORA;-;-;-;-;-;26.5;1.42;nuclear receptor
+Aldrin; ACEA_ER_AUC_viability;-;-;-;-;-;-;27.1;1.43;cell cycle
+Aldrin; BSK_3C_ICAM1_down;ICAM1;-;-;-;-;-;27.2;1.43;cell adhesion molecules
+Aldrin; TOX21_FXR_BLA_antagonist_ratio;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;27.3;1.44;nuclear receptor
+Aldrin; TOX21_MMP_ratio_down;-;-;-;-;-;-;27.6;1.44;cell morphology
+Aldrin; APR_HepG2_MitoticArrest_72h_up;-;-;-;-;-;-;29.7;1.47;cell cycle
+Aldrin; TOX21_FXR_BLA_agonist_viability;-;-;-;-;-;-;30.0;1.48;cell cycle
+Aldrin; TOX21_RT_HEK293_GLO_16hr_viability;-;-;-;-;-;-;30.1;1.48;cell cycle
+Aldrin; TOX21_AP1_BLA_Agonist_viability;-;-;-;-;-;-;30.3;1.48;cell cycle
+Aldrin; TOX21_RT_HEK293_GLO_08hr_viability;-;-;-;-;-;-;30.3;1.48;cell cycle
+Aldrin; BSK_CASM3C_MCSF_down;CSF1;-;-;-;-;-;30.4;1.48;cytokine
+Aldrin; TOX21_RT_HEK293_GLO_32hr_viability;-;-;-;-;-;-;30.5;1.48;cell cycle
+Aldrin; ATG_Xbp1_CIS_up;XBP1;-;-;-;-;-;30.5;1.48;dna binding
+Aldrin; ATG_FXR_TRANS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;30.7;1.49;nuclear receptor
+Aldrin; TOX21_RT_HEK293_GLO_24hr_viability;-;-;-;-;-;-;30.7;1.49;cell cycle
+Aldrin;BSK_3C_MIG_down;CXCL9;-;-;-;-;-;31.2;1.49;cytokine
+Aldrin; TOX21_RT_HEK293_GLO_40hr_viability;-;-;-;-;-;-;31.7;1.50;cell cycle
+Aldrin; BSK_CASM3C_HLADR_down;HLA-DRA;-;-;-;-;-;31.8;1.50;cell adhesion molecules
+Aldrin; BSK_SAg_MCP1_down;CCL2;-;-;-;-;-;32.8;1.52;cytokine
+Aldrin; BSK_4H_uPAR_down;PLAUR;-;-;-;-;-;32.9;1.52;cytokine
+Aldrin; BSK_SAg_Eselectin_down;SELE;-;-;-;-;-;32.9;1.52;cell adhesion molecules
+Aldrin; BSK_LPS_TissueFactor_down;F3;-;-;-;-;-;33.0;1.52;cytokine
+Aldrin; ATG_NRF2_ARE_CIS_up;NFE2L2;-;-;-;-;-;33.1;1.52;dna binding
+Aldrin; BSK_LPS_MCP1_down;CCL2;-;-;-;-;-;33.2;1.52;cytokine
+Aldrin; BSK_BE3C_PAI1_down;SERPINE1;-;-;-;-;-;33.2;1.52;cytokine
+Aldrin; BSK_LPS_CD40_down;CD40;-;-;-;-;-;33.5;1.52;cytokine
+Aldrin; TOX21_VDR_BLA_Agonist_viability;-;-;-;-;-;-;33.7;1.53;cell cycle
+Aldrin; BSK_CASM3C_LDLR_down;LDLR;-;-;-;-;-;33.7;1.53;misc protein
+Aldrin; TOX21_RT_HEK293_FLO_32hr_viability;-;-;-;-;-;-;34.1;1.53;cell cycle
+Aldrin; TOX21_RT_HEK293_FLO_40hr_viability;-;-;-;-;-;-;34.2;1.53;cell cycle
+Aldrin; APR_HepG2_CellLoss_72h_dn;-;-;-;-;-;-;34.3;1.54;cell cycle
+Aldrin; TOX21_RT_HEK293_FLO_24hr_viability;-;-;-;-;-;-;34.5;1.54;cell cycle
+Aldrin; BSK_CASM3C_uPAR_down;PLAUR;-;-;-;-;-;34.9;1.54;cytokine
+Aldrin; APR_HepG2_p53Act_72h_up;TP53;-;-;-;-;-;35.9;1.55;dna binding
+Aldrin; BSK_CASM3C_IL8_down;CXCL8;-;-;-;-;-;36.2;1.56;cytokine
+Aldrin; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;-;-;-;-;36.5;1.56;cell cycle
+Aldrin; TOX21_RT_HEK293_FLO_16hr_viability;-;-;-;-;-;-;36.9;1.57;cell cycle
+Aldrin; TOX21_RT_HEPG2_FLO_24hr_viability;-;-;-;-;-;-;37.1;1.57;cell cycle
+Chlordane;NVS_ENZ_hPTPRF_Activator;PTPRF;-;-;-;-;-;1.33;0.125;phosphatase
+Chlordane; ATG_DR5_CIS_up;RARB;-;-;-;-;-;1.78;0.251;nuclear receptor
+Chlordane; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;2.04;0.309;nuclear receptor
+Chlordane; ATG_VDRE_CIS_up;VDR;-;-;-;-;-;3.21;0.506;nuclear receptor
+Chlordane; BSK_hDFCGF_VCAM1_down;VCAM1;-;-;-;-;-;4.32;0.635;cell adhesion molecules
+Chlordane; BSK_hDFCGF_CollagenIII_down;COL3A1;-;-;-;-;-;4.50;0.654;cell adhesion molecules
+Chlordane; NVS_ADME_hCYP2C19;CYP2C19;-;-;-;-;-;4.63;0.666;cyp
+Chlordane; NVS_ENZ_hPTPN1_Activator;PTPN1;-;-;-;-;-;4.91;0.691;phosphatase
+Chlordane; BSK_hDFCGF_IP10_down;CXCL10;-;-;-;-;-;5.02;0.701;cytokine
+Chlordane; BSK_hDFCGF_MCSF_down;CSF1;-;-;-;-;-;5.07;0.705;cytokine
+Chlordane; BSK_hDFCGF_Proliferation_down;-;-;-;-;-;-;5.52;0.742;cell cycle
+Chlordane; ACEA_ER_80hr;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;6.17;0.791;nuclear receptor
+Chlordane; BSK_hDFCGF_TIMP1_down;TIMP1;-;-;-;-;-;6.23;0.795;protease inhibitor
+Chlordane; BSK_SAg_Proliferation_down;-;-;-;-;-;-;6.27;0.798;cell cycle
+Chlordane; NVS_ADME_hCYP2B6;CYP2B6;-;-;-;-;-;6.41;0.807;cyp
+Chlordane; BSK_hDFCGF_MMP1_down;MMP1;-;-;-;-;-;6.45;0.809;protease
+Chlordane; BSK_hDFCGF_MIG_down;CXCL9;-;-;-;-;-;6.49;0.812;cytokine
+Chlordane; ATG_RARg_TRANS_up;RARG;-;-;-;-;-;6.88;0.837;nuclear receptor
+Chlordane; NVS_NR_hGR;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;7.13;0.853;nuclear receptor
+Chlordane; BSK_hDFCGF_PAI1_down;SERPINE1;-;-;-;-;-;7.25;0.861;cytokine
+Chlordane; BSK_hDFCGF_IL8_down;CXCL8;-;-;-;-;-;7.38;0.868;cytokine
+Chlordane; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;7.44;0.872;nuclear receptor
+Chlordane; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;7.72;0.887;nuclear receptor
+Chlordane; TOX21_TSHR_Agonist_ratio;TSHR;-;-;-;-;-;7.99;0.903;gpcr
+Chlordane; OT_ER_ERbERb_0480;ESR2;-;-;-;-;-;8.09;0.908;nuclear receptor
+Chlordane; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;-;-;-;-;8.21;0.914;DNA binding
+Chlordane; BSK_hDFCGF_SRB_down;-;-;-;-;-;-;8.24;0.916;cell cycle
+Chlordane; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;-;-;-;-;8.94;0.951;malformation
+Chlordane; BSK_KF3CT_MMP9_down;MMP9;-;-;-;-;-;10.0;1.00;protease
+Chlordane; BSK_KF3CT_TGFb1_down;TGFB1;-;-;-;-;-;10.1;1.00;growth factor
+Chlordane; BSK_3C_Proliferation_down;-;-;-;-;-;-;10.1;1.00;cell cycle
+Chlordane; ACEA_AR_agonist_AUC_viability;-;-;-;-;-;-;10.5;1.02;cell cycle
+Chlordane; BSK_SAg_PBMCCytotoxicity_down;-;-;-;-;-;-;10.5;1.02;cell cycle
+Chlordane; BSK_BE3C_MMP1_up;MMP1;-;-;-;-;-;11.1;1.04;protease
+Chlordane; NVS_GPCR_hDRD2s;DRD2;-;-;-;-;-;11.1;1.05;gpcr
+Chlordane; BSK_4H_Pselectin_down;SELP;-;-;-;-;-;11.4;1.06;cell adhesion molecules
+Chlordane; OT_ER_ERbERb_1440;ESR2;-;-;-;-;-;11.5;1.06;nuclear receptor
+Chlordane; BSK_4H_MCP1_down;CCL2;-;-;-;-;-;11.6;1.06;cytokine
+Chlordane; BSK_KF3CT_TIMP2_down;TIMP2;-;-;-;-;-;11.7;1.07;protease inhibitor
+Chlordane; BSK_CASM3C_VCAM1_down;VCAM1;-;-;-;-;-;11.7;1.07;cell adhesion molecules
+Chlordane; ACEA_AR_antagonist_AUC_viability;-;-;-;-;-;-;11.8;1.07;cell cycle
+Chlordane; BSK_BE3C_HLADR_down;HLA-DRA;-;-;-;-;-;11.8;1.07;cell adhesion molecules
+Chlordane; BSK_KF3CT_IL1a_down;IL1A;-;-;-;-;-;11.9;1.08;cytokine
+Chlordane; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;-;-;-;-;12.1;1.08;DNA binding
+Chlordane; BSK_KF3CT_IP10_down;CXCL10;-;-;-;-;-;12.1;1.08;cytokine
+Chlordane; BSK_KF3CT_uPA_down;PLAU;-;-;-;-;-;12.2;1.09;protease
+Chlordane; BSK_3C_HLADR_down;HLA-DRA;-;-;-;-;-;12.2;1.09;cell adhesion molecules
+Chlordane; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;12.8;1.11;nuclear receptor
+Chlordane; BSK_BE3C_TGFb1_down;TGFB1;-;-;-;-;-;12.8;1.11;growth factor
+Chlordane; BSK_KF3CT_MCP1_down;CCL2;-;-;-;-;-;13.2;1.12;cytokine
+Chlordane; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;13.6;1.13;nuclear receptor
+Chlordane; BSK_3C_SRB_down;-;-;-;-;-;-;13.8;1.14;cell cycle
+Chlordane; ATG_Xbp1_CIS_up;XBP1;-;-;-;-;-;13.9;1.14;dna binding
+Chlordane; BSK_SAg_CD38_down;CD38;-;-;-;-;-;14.2;1.15;cytokine
+Chlordane; BSK_3C_Eselectin_down;SELE;-;-;-;-;-;14.6;1.16;cell adhesion molecules
+Chlordane; ATG_IR1_CIS_dn;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;14.7;1.17;nuclear receptor
+Chlordane; BSK_LPS_SRB_down;-;-;-;-;-;-;14.9;1.17;cell cycle
+Chlordane; BSK_LPS_CD40_down;CD40;-;-;-;-;-;15.3;1.18;cytokine
+Chlordane; ATG_NRF2_ARE_CIS_up;NFE2L2;-;-;-;-;-;16.4;1.22;dna binding
+Chlordane; BSK_CASM3C_Thrombomodulin_up;THBD;-;-;-;-;-;16.9;1.23;gpcr
+Chlordane; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;-;-;-;-;17.2;1.23;nuclear receptor
+Chlordane; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;17.5;1.24;nuclear receptor
+Chlordane; BSK_CASM3C_HLADR_down;HLA-DRA;-;-;-;-;-;17.6;1.25;cell adhesion molecules
+Chlordane; NIS_RAIU_inhibition;SLC5A5;-;-;-;-;-;18.6;1.27;transporter
+Chlordane; BSK_SAg_MIG_down;CXCL9;-;-;-;-;-;18.7;1.27;cytokine
+Chlordane; BSK_SAg_CD40_down;CD40;-;-;-;-;-;19.3;1.28;cytokine
+Chlordane; BSK_LPS_Eselectin_down;SELE;-;-;-;-;-;19.8;1.30;cell adhesion molecules
+Chlordane; TOX21_MMP_ratio_down;-;-;-;-;-;-;20.2;1.31;cell morphology
+Chlordane; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;21.0;1.32;nuclear receptor
+Chlordane; ATG_RXRb_TRANS_up;RXRB;-;-;-;-;-;21.4;1.33;nuclear receptor
+Chlordane; BSK_SAg_CD69_down;CD69;-;-;-;-;-;21.5;1.33;cytokine
+Chlordane; BSK_4H_VCAM1_down;VCAM1;-;-;-;-;-;21.8;1.34;cell adhesion molecules
+Chlordane; TOX21_VDR_BLA_Agonist_viability;-;-;-;-;-;-;22.0;1.34;cell cycle
+Chlordane; BSK_LPS_MCSF_down;CSF1;-;-;-;-;-;22.3;1.35;cytokine
+Chlordane; BSK_KF3CT_SRB_down;-;-;-;-;-;-;22.5;1.35;cell cycle
+Chlordane; APR_HepG2_MitoMembPot_72h_dn;-;-;-;-;-;-;22.5;1.35;cell morphology
+Chlordane; BSK_3C_VCAM1_down;VCAM1;-;-;-;-;-;22.5;1.35;cell adhesion molecules
+Chlordane; BSK_4H_SRB_down;-;-;-;-;-;-;22.6;1.35;cell cycle
+Chlordane; TOX21_TR_LUC_GH3_Antagonist;THRB;-;-;-;-;-;22.7;1.36;nuclear receptor
+Chlordane; BSK_LPS_VCAM1_down;VCAM1;-;-;-;-;-;22.9;1.36;cell adhesion molecules
+Chlordane; BSK_4H_Eotaxin3_down;CCL26;-;-;-;-;-;23.0;1.36;cytokine
+Chlordane; BSK_CASM3C_Proliferation_down;-;-;-;-;-;-;23.4;1.37;cell cycle
+Chlordane; ATG_EGR_CIS_up;EGR1;-;-;-;-;-;23.5;1.37;dna binding
+Chlordane; BSK_BE3C_MIG_down;CXCL9;-;-;-;-;-;23.6;1.37;cytokine
+Chlordane; TOX21_DT40;-;-;-;-;-;-;25.0;1.40;cell cycle
+Chlordane; TOX21_RXR_BLA_Agonist_viability;-;-;-;-;-;-;25.1;1.40;cell cycle
+Chlordane; BSK_LPS_TissueFactor_down;F3;-;-;-;-;-;25.3;1.40;cytokine
+Chlordane; TOX21_TR_LUC_GH3_Antagonist_viability;-;-;-;-;-;-;25.5;1.41;cell cycle
+Chlordane; TOX21_PPARd_BLA_Agonist_viability;-;-;-;-;-;-;25.5;1.41;cell cycle
+Chlordane; APR_HepG2_CellCycleArrest_24h_dn;-;-;-;-;-;-;25.7;1.41;cell cycle
+Chlordane; BSK_LPS_MCP1_down;CCL2;-;-;-;-;-;26.0;1.42;cytokine
+Chlordane; BSK_3C_TissueFactor_down;F3;-;-;-;-;-;26.0;1.42;cytokine
+Chlordane; TOX21_AP1_BLA_Agonist_viability;-;-;-;-;-;-;26.2;1.42;cell cycle
+Chlordane; ATG_TCF_b_cat_CIS_dn;TCF7;-;-;-;-;-;26.6;1.42;dna binding
+Chlordane; ATG_PPARg_TRANS_up;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;26.8;1.43;nuclear receptor
+Chlordane; BSK_3C_MCP1_down;CCL2;-;-;-;-;-;27.3;1.44;cytokine
+Chlordane; ATG_PPRE_CIS_up;PPARA;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;27.4;1.44;nuclear receptor
+Chlordane; BSK_LPS_IL8_down;CXCL8;-;-;-;-;-;27.5;1.44;cytokine
+Chlordane; ATG_ISRE_CIS_dn;IRF1;-;-;-;-;-;27.6;1.44;dna binding
+Chlordane; BSK_BE3C_IP10_down;CXCL10;-;-;-;-;-;27.7;1.44;cytokine
+Chlordane;BSK_CASM3C_SAA_down;SAA1;-;-;-;-;-;27.9;1.45;cell adhesion molecules
+Chlordane; BSK_3C_ICAM1_down;ICAM1;-;-;-;-;-;27.9;1.45;cell adhesion molecules
+Chlordane; TOX21_DT40_100;-;-;-;-;-;-;27.9;1.45;cell cycle
+Chlordane; BSK_3C_MIG_down;CXCL9;-;-;-;-;-;28.1;1.45;cytokine
+Chlordane; BSK_3C_IL8_down;CXCL8;-;-;-;-;-;28.5;1.45;cytokine
+Chlordane; BSK_CASM3C_TissueFactor_down;F3;-;-;-;-;-;28.9;1.46;cytokine
+Chlordane; BSK_3C_uPAR_down;PLAUR;-;-;-;-;-;29.1;1.46;cytokine
+Chlordane; BSK_SAg_IL8_down;CXCL8;-;-;-;-;-;29.3;1.47;cytokine
+Chlordane; BSK_LPS_IL1a_down;IL1A;-;-;-;-;-;29.4;1.47;cytokine
+Chlordane; TOX21_PPARg_BLA_antagonist_viability;-;-;-;-;-;-;29.5;1.47;cell cycle
+Chlordane; ATG_HSE_CIS_up;HSF1;-;-;-;-;-;29.9;1.48;dna binding
+Chlordane; BSK_BE3C_tPA_down;PLAT;-;-;-;-;-;31.0;1.49;protease
+Chlordane; TOX21_FXR_BLA_agonist_viability;-;-;-;-;-;-;31.4;1.50;cell cycle
+Chlordane; BSK_SAg_MCP1_down;CCL2;-;-;-;-;-;31.7;1.50;cytokine
+Chlordane; BSK_CASM3C_SRB_down;-;-;-;-;-;-;31.7;1.50;cell cycle
+Chlordane; BSK_LPS_TNFa_down;TNF;-;-;-;-;-;32.3;1.51;cytokine
+Chlordane; BSK_3C_Vis_down;-;-;-;-;-;-;32.6;1.51;cell morphology
+Chlordane; TOX21_VDR_BLA_antagonist_ratio;CYP24A1;-;-;-;-;-;32.8;1.52;nuclear receptor
+Chlordane; BSK_SAg_Eselectin_down;SELE;-;-;-;-;-;33.3;1.52;cell adhesion molecules
+Chlordane; TOX21_RT_HEK293_FLO_40hr_viability;-;-;-;-;-;-;33.4;1.52;cell cycle
+Chlordane; BSK_BE3C_PAI1_down;SERPINE1;-;-;-;-;-;33.5;1.53;cytokine
+Chlordane; BSK_SAg_SRB_down;-;-;-;-;-;-;33.6;1.53;cell cycle
+Chlordane; TOX21_VDR_BLA_antagonist_viability;-;-;-;-;-;-;33.7;1.53;cell cycle
+Chlordane; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;33.7;1.53;nuclear receptor
+Chlordane; TOX21_RT_HEK293_GLO_08hr_viability;-;-;-;-;-;-;33.8;1.53;cell cycle
+Chlordane; TOX21_HSE_BLA_agonist_viability;-;-;-;-;-;-;34.1;1.53;cell cycle
+Chlordane; TOX21_RT_HEK293_GLO_16hr_viability;-;-;-;-;-;-;34.1;1.53;cell cycle
+Chlordane; TOX21_RT_HEK293_FLO_24hr_viability;-;-;-;-;-;-;34.2;1.53;cell cycle
+Chlordane; TOX21_RT_HEK293_FLO_32hr_viability;-;-;-;-;-;-;34.4;1.54;cell cycle
+Chlordane; TOX21_AR_BLA_Antagonist_viability;-;-;-;-;-;-;35.9;1.56;cell cycle
+Chlordane; BSK_4H_uPAR_down;PLAUR;-;-;-;-;-;36.1;1.56;cytokine
+Chlordane; TOX21_DT40_657;-;-;-;-;-;-;36.1;1.56;cell cycle
+Chlordane; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;36.2;1.56;kinase
+Chlordane; ATG_MRE_CIS_up;MTF1;-;-;-;-;-;36.4;1.56;dna binding
+Chlordane; NIS_HEK293T_CTG_Cytotoxicity;-;-;-;-;-;-;37.2;1.57;cell cycle
+Chlordane; TOX21_PPARd_BLA_antagonist_viability;-;-;-;-;-;-;38.1;1.58;cell cycle
+Chlordane; TOX21_RT_HEK293_GLO_24hr_viability;-;-;-;-;-;-;38.2;1.58;cell cycle
+Chlordane; TOX21_FXR_BLA_antagonist_viability;-;-;-;-;-;-;39.9;1.60;cell cycle
+Chlordane; ATG_AP_1_CIS_up;FOS;-;-;-;-;-;40.2;1.60;dna binding
+Chlordane; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;-;-;-;-;40.5;1.61;DNA binding
+Chlordane; ATG_Pax6_CIS_up;PAX6;-;-;-;-;-;41.0;1.61;dna binding
+Chlordane; TOX21_RT_HEK293_FLO_16hr_viability;-;-;-;-;-;-;41.4;1.62;cell cycle
+Chlordane; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;-;-;-;-;42.3;1.63;cell cycle
+Chlordane; BSK_CASM3C_LDLR_up;LDLR;-;-;-;-;-;43.0;1.63;misc protein
+Chlordane; TOX21_FXR_BLA_antagonist_ratio;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;44.3;1.65;nuclear receptor
+Chlordane; TOX21_GR_BLA_Agonist_ratio;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;44.8;1.65;nuclear receptor
+Chlordane; OT_AR_ARSRC1_0960;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;46.2;1.66;nuclear receptor
+Chlordane; ATG_E_Box_CIS_dn;USF1;-;-;-;-;-;46.4;1.67;dna binding
+Chlordane; TOX21_p53_BLA_p2_viability;-;-;-;-;-;-;47.1;1.67;cell cycle
+Chlordane; ATG_FXR_TRANS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;47.2;1.67;nuclear receptor
+Chlordane; OT_AR_ARSRC1_0480;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;48.4;1.68;nuclear receptor
+Chlordane; TOX21_RT_HEK293_GLO_32hr_viability;-;-;-;-;-;-;48.5;1.69;cell cycle
+Chlordane; TOX21_ESRE_BLA_viability;-;-;-;-;-;-;49.2;1.69;cell cycle
+Dichlorodiphenyltrichloroethane;NVS_ENZ_hPTPN2_Activator;PTPN2;-;-;-;-;-;0.164;-0.786;phosphatase
+Dichlorodiphenyltrichloroethane; OT_ERa_EREGFP_0480;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;3.26;0.514;nuclear receptor
+Dichlorodiphenyltrichloroethane; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;-;-;-;-;3.80;0.580;malformation
+Dichlorodiphenyltrichloroethane; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;4.31;0.635;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_Proliferation_down;-;-;-;-;-;-;4.36;0.639;cell cycle
+Dichlorodiphenyltrichloroethane; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.41;0.644;nuclear receptor
+Dichlorodiphenyltrichloroethane; OT_ERa_EREGFP_0120;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.72;0.674;nuclear receptor
+Dichlorodiphenyltrichloroethane; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.74;0.676;nuclear receptor
+Dichlorodiphenyltrichloroethane; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;5.21;0.717;nuclear receptor
+Dichlorodiphenyltrichloroethane; TOX21_DT40_657;-;-;-;-;-;-;5.57;0.745;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_Thrombomodulin_up;THBD;-;-;-;-;-;5.58;0.747;gpcr
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_PAI1_down;SERPINE1;-;-;-;-;-;6.18;0.791;cytokine
+Dichlorodiphenyltrichloroethane; NIS_HEK293T_CTG_Cytotoxicity;-;-;-;-;-;-;7.04;0.848;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;-;-;-;-;7.14;0.853;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_VCAM1_down;VCAM1;-;-;-;-;-;7.32;0.864;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; ACEA_AR_agonist_AUC_viability;-;-;-;-;-;-;7.60;0.881;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_SRB_down;-;-;-;-;-;-;7.61;0.882;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_CollagenIII_down;COL3A1;-;-;-;-;-;8.14;0.911;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;8.20;0.914;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_MCSF_down;CSF1;-;-;-;-;-;8.26;0.917;cytokine
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_MMP9_down;MMP9;-;-;-;-;-;8.46;0.927;protease
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_TIMP2_down;TIMP2;-;-;-;-;-;8.83;0.946;protease inhibitor
+Dichlorodiphenyltrichloroethane; BSK_SAg_Proliferation_down;-;-;-;-;-;-;9.36;0.971;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_MCP1_down;CCL2;-;-;-;-;-;9.53;0.979;cytokine
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_TIMP1_down;TIMP1;-;-;-;-;-;9.68;0.986;protease inhibitor
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_TGFb1_down;TGFB1;-;-;-;-;-;10.1;1.00;growth factor
+Dichlorodiphenyltrichloroethane; BSK_BE3C_MMP1_up;MMP1;-;-;-;-;-;10.4;1.02;protease
+Dichlorodiphenyltrichloroethane; ATG_RXRb_TRANS_up;RXRB;-;-;-;-;-;10.6;1.02;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_IP10_down;CXCL10;-;-;-;-;-;10.6;1.03;cytokine
+Dichlorodiphenyltrichloroethane; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;11.0;1.04;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_LPS_IL1a_down;IL1A;-;-;-;-;-;11.3;1.05;cytokine
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_MMP1_down;MMP1;-;-;-;-;-;11.4;1.06;protease
+Dichlorodiphenyltrichloroethane; BSK_3C_uPAR_down;PLAUR;-;-;-;-;-;11.5;1.06;cytokine
+Dichlorodiphenyltrichloroethane; BSK_4H_Pselectin_down;SELP;-;-;-;-;-;11.6;1.06;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_BE3C_IL1a_up;IL1A;-;-;-;-;-;11.6;1.06;cytokine
+Dichlorodiphenyltrichloroethane; BSK_SAg_IL8_down;CXCL8;-;-;-;-;-;11.6;1.06;cytokine
+Dichlorodiphenyltrichloroethane; BSK_SAg_CD38_down;CD38;-;-;-;-;-;11.6;1.07;cytokine
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_MIG_down;CXCL9;-;-;-;-;-;11.8;1.07;cytokine
+Dichlorodiphenyltrichloroethane; TOX21_DT40;-;-;-;-;-;-;11.9;1.07;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_SAg_PBMCCytotoxicity_down;-;-;-;-;-;-;12.0;1.08;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_3C_MCP1_down;CCL2;-;-;-;-;-;12.3;1.09;cytokine
+Dichlorodiphenyltrichloroethane; BSK_4H_MCP1_down;CCL2;-;-;-;-;-;12.5;1.10;cytokine
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_IP10_down;CXCL10;-;-;-;-;-;12.8;1.11;cytokine
+Dichlorodiphenyltrichloroethane; BSK_3C_SRB_down;-;-;-;-;-;-;12.8;1.11;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_SAg_CD69_down;CD69;-;-;-;-;-;12.8;1.11;cytokine
+Dichlorodiphenyltrichloroethane; BSK_LPS_VCAM1_down;VCAM1;-;-;-;-;-;12.9;1.11;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_LPS_SRB_down;-;-;-;-;-;-;13.1;1.12;cell cycle
+Dichlorodiphenyltrichloroethane; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;13.5;1.13;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_LPS_MCSF_down;CSF1;-;-;-;-;-;13.5;1.13;cytokine
+Dichlorodiphenyltrichloroethane; BSK_3C_Eselectin_down;SELE;-;-;-;-;-;14.0;1.15;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; ATG_IR1_CIS_dn;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;14.5;1.16;nuclear receptor
+Dichlorodiphenyltrichloroethane; OT_ER_ERbERb_0480;ESR2;-;-;-;-;-;14.5;1.16;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_SRB_down;-;-;-;-;-;-;14.6;1.16;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_DT40_100;-;-;-;-;-;-;14.6;1.16;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_3C_IL8_down;CXCL8;-;-;-;-;-;14.7;1.17;cytokine
+Dichlorodiphenyltrichloroethane; BSK_SAg_SRB_down;-;-;-;-;-;-;14.7;1.17;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_uPA_down;PLAU;-;-;-;-;-;14.9;1.17;protease
+Dichlorodiphenyltrichloroethane; BSK_SAg_MCP1_down;CCL2;-;-;-;-;-;14.9;1.17;cytokine
+Dichlorodiphenyltrichloroethane; BSK_3C_Proliferation_down;-;-;-;-;-;-;14.9;1.17;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_LPS_Eselectin_down;SELE;-;-;-;-;-;15.0;1.18;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_MCSF_down;CSF1;-;-;-;-;-;15.3;1.18;cytokine
+Dichlorodiphenyltrichloroethane; TOX21_AR_LUC_MDAKB2_Antagonist;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;15.7;1.20;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_4H_SRB_down;-;-;-;-;-;-;15.9;1.20;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_3C_HLADR_down;HLA-DRA;-;-;-;-;-;16.2;1.21;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_LPS_CD40_down;CD40;-;-;-;-;-;16.4;1.21;cytokine
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_VCAM1_down;VCAM1;-;-;-;-;-;17.5;1.24;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_SAg_CD40_down;CD40;-;-;-;-;-;17.5;1.24;cytokine
+Dichlorodiphenyltrichloroethane; NIS_RAIU_inhibition;SLC5A5;-;-;-;-;-;17.8;1.25;transporter
+Dichlorodiphenyltrichloroethane; BSK_3C_MIG_down;CXCL9;-;-;-;-;-;19.0;1.28;cytokine
+Dichlorodiphenyltrichloroethane; TOX21_TR_LUC_GH3_Antagonist_viability;-;-;-;-;-;-;19.5;1.29;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_TR_LUC_GH3_Antagonist;THRB;-;-;-;-;-;19.6;1.29;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_LPS_TNFa_down;TNF;-;-;-;-;-;19.7;1.29;cytokine
+Dichlorodiphenyltrichloroethane; TOX21_MMP_ratio_down;-;-;-;-;-;-;20.0;1.30;cell morphology
+Dichlorodiphenyltrichloroethane; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;20.1;1.30;kinase
+Dichlorodiphenyltrichloroethane; BSK_SAg_MIG_down;CXCL9;-;-;-;-;-;20.6;1.31;cytokine
+Dichlorodiphenyltrichloroethane; ATG_CAR_TRANS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;20.9;1.32;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_IL1a_down;IL1A;-;-;-;-;-;21.4;1.33;cytokine
+Dichlorodiphenyltrichloroethane; BSK_LPS_IL8_down;CXCL8;-;-;-;-;-;21.6;1.33;cytokine
+Dichlorodiphenyltrichloroethane; BSK_BE3C_uPA_up;PLAU;-;-;-;-;-;21.6;1.33;protease
+Dichlorodiphenyltrichloroethane; NVS_ENZ_hSIRT1;SIRT1;-;-;-;-;-;21.6;1.33;hydrolase
+Dichlorodiphenyltrichloroethane; BSK_4H_VCAM1_down;VCAM1;-;-;-;-;-;22.1;1.34;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_uPAR_down;PLAUR;-;-;-;-;-;22.5;1.35;cytokine
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_Proliferation_down;-;-;-;-;-;-;22.5;1.35;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_3C_VCAM1_down;VCAM1;-;-;-;-;-;22.7;1.36;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_KF3CT_ICAM1_down;ICAM1;-;-;-;-;-;23.0;1.36;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; OT_FXR_FXRSRC1_0480;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;23.1;1.36;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_hDFCGF_IL8_down;CXCL8;-;-;-;-;-;23.1;1.36;cytokine
+Dichlorodiphenyltrichloroethane; ACEA_ER_AUC_viability;-;-;-;-;-;-;23.4;1.37;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_3C_TissueFactor_down;F3;-;-;-;-;-;23.7;1.37;cytokine
+Dichlorodiphenyltrichloroethane; OT_ER_ERaERb_1440;ESR2;-;-;-;-;-;24.3;1.39;nuclear receptor
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_HLADR_down;HLA-DRA;-;-;-;-;-;24.9;1.40;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; BSK_4H_Eotaxin3_down;CCL26;-;-;-;-;-;25.0;1.40;cytokine
+Dichlorodiphenyltrichloroethane; BSK_LPS_MCP1_down;CCL2;-;-;-;-;-;25.1;1.40;cytokine
+Dichlorodiphenyltrichloroethane; APR_HepG2_MitoMembPot_24h_dn;-;-;-;-;-;-;25.7;1.41;cell morphology
+Dichlorodiphenyltrichloroethane; TOX21_FXR_BLA_agonist_viability;-;-;-;-;-;-;25.8;1.41;cell cycle
+Dichlorodiphenyltrichloroethane; APR_HepG2_MitoMembPot_72h_dn;-;-;-;-;-;-;25.8;1.41;cell morphology
+Dichlorodiphenyltrichloroethane; APR_HepG2_CellCycleArrest_72h_dn;-;-;-;-;-;-;26.0;1.41;cell cycle
+Dichlorodiphenyltrichloroethane; ATG_NRF2_ARE_CIS_up;NFE2L2;-;-;-;-;-;26.9;1.43;dna binding
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_SAA_down;SAA1;-;-;-;-;-;27.4;1.44;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;27.6;1.44;nuclear receptor
+Dichlorodiphenyltrichloroethane;BSK_3C_ICAM1_down;ICAM1;-;-;-;-;-;28.0;1.45;cell adhesion molecules
+Dichlorodiphenyltrichloroethane; TOX21_RT_HEK293_GLO_08hr_viability;-;-;-;-;-;-;28.4;1.45;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_p53_BLA_p2_viability;-;-;-;-;-;-;28.5;1.45;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_RXR_BLA_Agonist_viability;-;-;-;-;-;-;28.6;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_p53_BLA_p1_viability;-;-;-;-;-;-;28.7;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_RT_HEK293_GLO_16hr_viability;-;-;-;-;-;-;28.9;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;28.9;1.46;nuclear receptor
+Dichlorodiphenyltrichloroethane; TOX21_RT_HEK293_GLO_40hr_viability;-;-;-;-;-;-;29.0;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_RT_HEK293_GLO_32hr_viability;-;-;-;-;-;-;29.0;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; OT_ER_ERbERb_1440;ESR2;-;-;-;-;-;29.1;1.46;nuclear receptor
+Dichlorodiphenyltrichloroethane; TOX21_p53_BLA_p3_viability;-;-;-;-;-;-;29.1;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; TOX21_RT_HEK293_GLO_24hr_viability;-;-;-;-;-;-;29.1;1.46;cell cycle
+Dichlorodiphenyltrichloroethane; BSK_CASM3C_LDLR_down;LDLR;-;-;-;-;-;29.2;1.47;misc protein
+Dieldrin;BSK_CASM3C_SAA_up;SAA1;-;-;-;-;-;4.06e-2;-1.39;cell adhesion molecules
+Dieldrin; ATG_DR5_CIS_up;RARB;-;-;-;-;-;0.579;-0.237;nuclear receptor
+Dieldrin; ATG_RARa_TRANS_up;RARA;-;-;-;-;-;0.770;-0.113;nuclear receptor
+Dieldrin; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;;1.00;2.00e-3;nuclear receptor
+Dieldrin; ATG_RARg_TRANS_up;RARG;-;-;-;-;-;1.68;0.225;nuclear receptor
+Dieldrin; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.92;0.282;nuclear receptor
+Dieldrin; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;2.55;0.407;nuclear receptor
+Dieldrin; BSK_LPS_TNFa_up;TNF;-;-;-;-;-;2.74;0.437;cytokine
+Dieldrin; NVS_ADME_hCYP2C19;CYP2C19;-;-;-;-;-;3.64;0.561;cyp
+Dieldrin; TOX21_TSHR_Agonist_ratio;TSHR;-;-;-;-;-;3.72;0.570;gpcr
+Dieldrin; ACEA_ER_80hr;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.13;0.616;nuclear receptor
+Dieldrin; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.71;0.673;nuclear receptor
+Dieldrin; NVS_ADME_hCYP2B6;CYP2B6;-;-;-;-;-;4.79;0.680;cyp
+Dieldrin; BSK_hDFCGF_Proliferation_down;-;-;-;-;-;-;6.30;0.799;cell cycle
+Dieldrin; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;-;-;-;-;6.74;0.829;malformation
+Dieldrin; BSK_SAg_CD40_down;CD40;-;-;-;-;-;9.04;0.956;cytokine
+Dieldrin; BSK_SAg_SRB_down;-;-;-;-;-;-;9.38;0.972;cell cycle
+Dieldrin; BSK_LPS_CD40_down;CD40;-;-;-;-;-;9.83;0.992;cytokine
+Dieldrin; BSK_3C_Vis_down;-;-;-;-;-;-;10.4;1.02;cell morphology
+Dieldrin; BSK_LPS_VCAM1_down;VCAM1;-;-;-;-;-;10.6;1.03;cell adhesion molecules
+Dieldrin; BSK_3C_VCAM1_down;VCAM1;-;-;-;-;-;10.9;1.04;cell adhesion molecules
+Dieldrin; BSK_4H_MCP1_down;CCL2;-;-;-;-;-;11.0;1.04;cytokine
+Dieldrin; BSK_3C_Proliferation_down;-;-;-;-;-;-;11.2;1.05;cell cycle
+Dieldrin; BSK_4H_VCAM1_down;VCAM1;-;-;-;-;-;11.4;1.06;cell adhesion molecules
+Dieldrin; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;-;-;-;-;12.2;1.08;nuclear receptor
+Dieldrin; BSK_SAg_Proliferation_down;-;-;-;-;-;-;12.5;1.10;cell cycle
+Dieldrin; BSK_3C_SRB_down;-;-;-;-;-;-;12.6;1.10;cell cycle
+Dieldrin; BSK_SAg_CD38_down;CD38;-;-;-;-;-;13.7;1.14;cytokine
+Dieldrin; OT_ER_ERbERb_0480;ESR2;-;-;-;-;-;15.4;1.19;nuclear receptor
+Dieldrin; ATG_VDRE_CIS_up;VDR;-;-;-;-;-;15.6;1.19;nuclear receptor
+Dieldrin; BSK_3C_HLADR_down;HLA-DRA;-;-;-;-;-;15.8;1.20;cell adhesion molecules
+Dieldrin; OT_FXR_FXRSRC1_1440;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;16.4;1.21;nuclear receptor
+Dieldrin; BSK_4H_Pselectin_down;SELP;-;;-;;;16.5;1.22;cell adhesion molecules
+Dieldrin; BSK_CASM3C_Proliferation_down;-;-;;-;;;17.7;1.25;cell cycle
+Dieldrin; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;18.7;1.27;nuclear receptor
+Dieldrin; NIS_HEK293T_CTG_Cytotoxicity;-;-;;-;;;20.5;1.31;cell cycle
+Dieldrin; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;21.0;1.32;DNA binding
+Dieldrin; ATG_RXRb_TRANS_up;RXRB;-;;-;;;22.5;1.35;nuclear receptor
+Dieldrin; OT_ERa_EREGFP_0120;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;26.9;1.43;nuclear receptor
+Dieldrin; APR_HepG2_CellLoss_24h_dn;-;-;;-;;;27.4;1.44;cell cycle
+Dieldrin; NVS_GPCR_rSST;SSTR1;-;;-;;;27.7;1.44;gpcr
+Dieldrin; NVS_ENZ_hElastase;ELANE;-;;-;;;28.3;1.45;protease
+Dieldrin; APR_HepG2_CellLoss_72h_dn;-;-;;-;;;29.8;1.47;cell cycle
+Dieldrin; APR_HepG2_MitoticArrest_72h_up;-;-;;-;;;31.1;1.49;cell cycle
+Dieldrin; NIS_RAIU_inhibition;SLC5A5;-;;-;;;31.9;1.50;transporter
+Dieldrin; BSK_hDFCGF_IP10_down;CXCL10;-;;-;;;32.8;1.52;cytokine
+Dieldrin; TOX21_MMP_ratio_down;-;-;;-;;;33.7;1.53;cell morphology
+Dieldrin; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;34.4;1.54;nuclear receptor
+Dieldrin; TOX21_DT40_100;-;-;;-;;;34.9;1.54;cell cycle
+Dieldrin; TOX21_DT40;-;-;;-;;;35.0;1.54;cell cycle
+Dieldrin; ATG_IR1_CIS_dn;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;35.2;1.55;nuclear receptor
+Dieldrin; OT_AR_ARSRC1_0480;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;35.5;1.55;nuclear receptor
+Dieldrin; TOX21_AP1_BLA_Agonist_viability;-;-;;-;;;35.9;1.55;cell cycle
+Dieldrin; APR_HepG2_CellCycleArrest_72h_dn;-;-;;-;;;37.1;1.57;cell cycle
+Dieldrin; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;37.6;1.58;cell cycle
+Dieldrin; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;37.9;1.58;cell cycle
+Dieldrin; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;38.0;1.58;cell cycle
+Dieldrin; BSK_3C_MCP1_down;CCL2;-;;-;;;38.2;1.58;cytokine
+Dieldrin; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;38.2;1.58;cell cycle
+Dieldrin; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;38.6;1.59;cell cycle
+Dieldrin; APR_HepG2_OxidativeStress_72h_up;-;-;;-;;;39.4;1.60;cell cycle
+Dieldrin; TOX21_AR_BLA_Antagonist_viability;-;-;;-;;;39.6;1.60;cell cycle
+Dieldrin; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;39.7;1.60;cell cycle
+Dieldrin; OT_ER_ERbERb_1440;ESR2;-;;-;;;40.0;1.60;nuclear receptor
+Dieldrin; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;40.3;1.61;cell cycle
+Dieldrin; ACEA_AR_agonist_AUC_viability;-;-;;-;;;40.7;1.61;cell cycle
+Dieldrin; NVS_ENZ_hDUSP3;DUSP3;-;;-;;;40.9;1.61;phosphatase
+Dieldrin; TOX21_RT_HEPG2_GLO_24hr_ctrl_viability;-;-;;-;;;41.3;1.62;cell cycle
+Dieldrin; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;;-;;;41.6;1.62;cell cycle
+Dieldrin; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;42.0;1.62;cell cycle
+Dieldrin; TOX21_RT_HEPG2_GLO_16hr_ctrl_viability;-;-;;-;;;42.7;1.63;cell cycle
+Dieldrin; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;43.8;1.64;cell cycle
+Dieldrin; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;44.8;1.65;cell cycle
+Dieldrin; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;46.5;1.67;cell cycle
+Endrin;NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;;-;;;1.09e-2;-1.96;malformation
+Endrin; NVS_GPCR_gANPA;NPPA;-;;-;;;0.222;-0.653;lyase
+Endrin; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.272;-0.565;nuclear receptor
+Endrin; ATG_DR5_CIS_up;RARB;-;;-;;;0.806;-9.38e-2;nuclear receptor
+Endrin; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.38;0.139;nuclear receptor
+Endrin; ATG_RARb_TRANS_up;RARB;-;;-;;;1.61;0.206;nuclear receptor
+Endrin; ATG_RARg_TRANS_up;RARG;-;;-;;;1.70;0.230;nuclear receptor
+Endrin; CEETOX_H295R_OHPREG_dn;PGR;-;;-;;;1.70;0.231;steroid hormone
+Endrin; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;2.25;0.351;nuclear receptor
+Endrin; ATG_VDRE_CIS_up;VDR;-;;-;;;2.42;0.384;nuclear receptor
+Endrin; BSK_LPS_TNFa_up;TNF;-;;-;;;3.37;0.528;cytokine
+Endrin; CEETOX_H295R_PROG_dn;PGR;-;;-;;;3.54;0.549;steroid hormone
+Endrin; BSK_SAg_PBMCCytotoxicity_up;-;-;;-;;;4.20;0.623;cell cycle
+Endrin; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;4.31;0.634;nuclear receptor
+Endrin; BSK_4H_MCP1_down;CCL2;-;;-;;;4.33;0.637;cytokine
+Endrin; ATG_TCF_b_cat_CIS_dn;TCF7;-;;-;;;4.50;0.653;dna binding
+Endrin; BSK_hDFCGF_Proliferation_down;-;-;;-;;;4.63;0.665;cell cycle
+Endrin; TOX21_TSHR_Agonist_ratio;TSHR;-;;-;;;4.89;0.689;gpcr
+Endrin; OT_FXR_FXRSRC1_1440;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;5.01;0.700;nuclear receptor
+Endrin; NVS_ADME_hCYP2B6;CYP2B6;-;;-;;;5.08;0.705;cyp
+Endrin; BSK_SAg_Eselectin_up;SELE;-;;-;;;5.22;0.717;cell adhesion molecules
+Endrin; BSK_4H_Pselectin_down;SELP;-;;-;;;5.28;0.723;cell adhesion molecules
+Endrin; BSK_LPS_SRB_down;-;-;;-;;;5.46;0.737;cell cycle
+Endrin; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;5.77;0.761;cell adhesion molecules
+Endrin; BSK_BE3C_MMP1_up;MMP1;-;;-;;;5.95;0.775;protease
+Endrin; BSK_SAg_SRB_down;-;-;;-;;;6.07;0.783;cell cycle
+Endrin; BSK_LPS_CD40_down;CD40;-;;-;;;6.09;0.785;cytokine
+Endrin; CEETOX_H295R_MTT_Cytotoxicity_up;-;-;;-;;;6.17;0.791;cell cycle
+Endrin; CEETOX_H295R_MTT_Cytotoxicity_dn;-;-;;-;;;6.17;0.791;cell cycle
+Endrin; BSK_SAg_Proliferation_down;-;-;;-;;;6.31;0.800;cell cycle
+Endrin; BSK_3C_Proliferation_down;-;-;;-;;;6.89;0.838;cell cycle
+Endrin; BSK_SAg_CD40_down;CD40;-;;-;;;6.91;0.839;cytokine
+Endrin; BSK_3C_SRB_down;-;-;;-;;;7.67;0.885;cell cycle
+Endrin; CEETOX_H295R_TESTO_dn;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;7.86;0.896;steroid hormone
+Endrin; BSK_CASM3C_TissueFactor_down;F3;-;;-;;;7.90;0.898;cytokine
+Endrin; BSK_4H_SRB_down;-;-;;-;;;8.95;0.952;cell cycle
+Endrin; CEETOX_H295R_CORTISOL_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;9.62;0.983;steroid hormone
+Endrin; CEETOX_H295R_11DCORT_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;10.8;1.03;steroid hormone
+Endrin; CEETOX_H295R_ANDR_dn;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;11.2;1.05;steroid hormone
+Endrin; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;12.1;1.08;nuclear receptor
+Endrin; Tanguay_ZF_120hpf_ActivityScore;-;-;;-;;;12.1;1.08;malformation
+Endrin; OT_FXR_FXRSRC1_0480;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;13.0;1.11;nuclear receptor
+Endrin; NVS_GPCR_rSST;SSTR1;-;;-;;;13.2;1.12;gpcr
+Endrin; BSK_CASM3C_Proliferation_down;-;-;;-;;;13.4;1.13;cell cycle
+Endrin; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;16.2;1.21;nuclear receptor
+Endrin; CEETOX_H295R_DOC_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;17.8;1.25;steroid hormone
+Endrin; CEETOX_H295R_OHPROG_dn;PGR;-;;-;;;18.0;1.25;steroid hormone
+Endrin; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;18.2;1.26;cell cycle
+Endrin; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;20.1;1.30;nuclear receptor
+Endrin; TOX21_DT40_100;-;-;;-;;;21.4;1.33;cell cycle
+Endrin; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;22.4;1.35;nuclear receptor
+Endrin; ACEA_ER_80hr;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;22.9;1.36;nuclear receptor
+Heptachlor;NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;;-;;;3.36;0.527;malformation
+Heptachlor; TOX21_TSHR_Agonist_ratio;TSHR;-;;-;;;3.93;0.595;gpcr
+Heptachlor; BSK_hDFCGF_CollagenIII_down;COL3A1;-;;-;;;5.05;0.703;cell adhesion molecules
+Heptachlor; BSK_3C_Proliferation_down;-;-;;-;;;5.73;0.758;cell cycle
+Heptachlor; BSK_hDFCGF_VCAM1_down;VCAM1;-;;-;;;6.05;0.782;cell adhesion molecules
+Heptachlor; BSK_hDFCGF_IP10_down;CXCL10;-;;-;;;6.38;0.805;cytokine
+Heptachlor; BSK_hDFCGF_Proliferation_down;-;-;;-;;;6.81;0.833;cell cycle
+Heptachlor; BSK_hDFCGF_MCSF_down;CSF1;-;;-;;;6.88;0.838;cytokine
+Heptachlor; BSK_hDFCGF_PAI1_down;SERPINE1;-;;-;;;7.21;0.858;cytokine
+Heptachlor; BSK_hDFCGF_TIMP1_down;TIMP1;-;;-;;;7.30;0.864;protease inhibitor
+Heptachlor; BSK_hDFCGF_MIG_down;CXCL9;-;;-;;;8.25;0.916;cytokine
+Heptachlor; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;8.35;0.922;nuclear receptor
+Heptachlor; BSK_SAg_Proliferation_down;-;-;;-;;;8.58;0.934;cell cycle
+Heptachlor; BSK_hDFCGF_SRB_down;-;-;;-;;;8.66;0.938;cell cycle
+Heptachlor; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;9.34;0.970;nuclear receptor
+Heptachlor; BSK_SAg_PBMCCytotoxicity_down;-;-;;-;;;9.68;0.986;cell cycle
+Heptachlor; BSK_hDFCGF_MMP1_down;MMP1;-;;-;;;10.1;1.00;protease
+Heptachlor; BSK_hDFCGF_IL8_down;CXCL8;-;;-;;;10.1;1.00;cytokine
+Heptachlor; BSK_KF3CT_MMP9_down;MMP9;-;;-;;;10.5;1.02;protease
+Heptachlor; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;10.6;1.02;nuclear receptor
+Heptachlor; BSK_KF3CT_TGFb1_down;TGFB1;-;;-;;;10.7;1.03;growth factor
+Heptachlor; BSK_KF3CT_IP10_down;CXCL10;-;;-;;;10.7;1.03;cytokine
+Heptachlor; BSK_KF3CT_MCP1_down;CCL2;-;;-;;;11.0;1.04;cytokine
+Heptachlor; BSK_KF3CT_IL1a_down;IL1A;-;;-;;;12.3;1.09;cytokine
+Heptachlor; BSK_4H_Pselectin_down;SELP;-;;-;;;12.8;1.11;cell adhesion molecules
+Heptachlor; BSK_KF3CT_ICAM1_down;ICAM1;-;;-;;;13.1;1.12;cell adhesion molecules
+Heptachlor; BSK_3C_SRB_down;-;-;;-;;;13.1;1.12;cell cycle
+Heptachlor; OT_NURR1_NURR1RXRa_0480;RXRA;-;;-;;;13.4;1.13;nuclear receptor
+Heptachlor; BSK_3C_uPAR_down;PLAUR;-;;-;;;13.5;1.13;cytokine
+Heptachlor; BSK_LPS_MCSF_down;CSF1;-;;-;;;13.9;1.14;cytokine
+Heptachlor; BSK_LPS_IL1a_down;IL1A;-;;-;;;14.0;1.15;cytokine
+Heptachlor; BSK_LPS_SRB_down;-;-;;-;;;14.0;1.15;cell cycle
+Heptachlor; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;14.4;1.16;protease inhibitor
+Heptachlor; BSK_KF3CT_uPA_down;PLAU;-;;-;;;14.9;1.17;protease
+Heptachlor; BSK_4H_Eotaxin3_down;CCL26;-;;-;;;15.1;1.18;cytokine
+Heptachlor; BSK_CASM3C_SAA_down;SAA1;-;;-;;;15.3;1.18;cell adhesion molecules
+Heptachlor; BSK_CASM3C_VCAM1_down;VCAM1;-;;-;;;15.5;1.19;cell adhesion molecules
+Heptachlor; BSK_3C_ICAM1_down;ICAM1;-;;-;;;15.7;1.20;cell adhesion molecules
+Heptachlor; BSK_LPS_Eselectin_down;SELE;-;;-;;;17.4;1.24;cell adhesion molecules
+Heptachlor; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;17.9;1.25;cell cycle
+Heptachlor; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;18.9;1.28;cell adhesion molecules
+Heptachlor; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;18.9;1.28;nuclear receptor
+Heptachlor; BSK_4H_MCP1_down;CCL2;-;;-;;;19.5;1.29;cytokine
+Heptachlor; ACEA_AR_agonist_AUC_viability;-;-;;-;;;20.0;1.30;cell cycle
+Heptachlor; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;21.2;1.33;cell adhesion molecules
+Heptachlor; BSK_CASM3C_IL6_down;IL6;-;;-;;;21.3;1.33;cytokine
+Heptachlor; BSK_SAg_CD40_down;CD40;-;;-;;;21.3;1.33;cytokine
+Heptachlor; APR_HepG2_CellCycleArrest_72h_dn;-;-;;-;;;21.5;1.33;cell cycle
+Heptachlor; ATG_FXR_TRANS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;21.8;1.34;nuclear receptor
+Heptachlor; OT_FXR_FXRSRC1_0480;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;22.5;1.35;nuclear receptor
+Heptachlor; BSK_3C_TissueFactor_down;F3;-;;-;;;22.6;1.35;cytokine
+Heptachlor; BSK_BE3C_tPA_down;PLAT;-;;-;;;22.6;1.35;protease
+Heptachlor; TOX21_PPARg_BLA_antagonist_viability;-;-;;-;;;23.2;1.36;cell cycle
+Heptachlor; BSK_SAg_IL8_down;CXCL8;-;;-;;;23.3;1.37;cytokine
+Heptachlor; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;23.5;1.37;kinase
+Heptachlor; BSK_3C_VCAM1_down;VCAM1;-;;-;;;23.7;1.38;cell adhesion molecules
+Heptachlor; BSK_3C_Eselectin_down;SELE;-;;-;;;23.7;1.38;cell adhesion molecules
+Heptachlor; BSK_CASM3C_TissueFactor_down;F3;-;;-;;;23.8;1.38;cytokine
+Heptachlor; BSK_KF3CT_SRB_down;-;-;;-;;;23.9;1.38;cell cycle
+Heptachlor; BSK_3C_MCP1_down;CCL2;-;;-;;;24.2;1.38;cytokine
+Heptachlor; BSK_BE3C_IL1a_down;IL1A;-;;-;;;24.7;1.39;cytokine
+Heptachlor; BSK_CASM3C_Proliferation_down;-;-;;-;;;24.8;1.39;cell cycle
+Heptachlor; BSK_3C_IL8_down;CXCL8;-;;-;;;24.9;1.40;cytokine
+Heptachlor; BSK_4H_SRB_down;-;-;;-;;;25.9;1.41;cell cycle
+Heptachlor; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;25.9;1.41;DNA binding
+Heptachlor; BSK_CASM3C_uPAR_down;PLAUR;-;;-;;;26.3;1.42;cytokine
+Heptachlor; BSK_CASM3C_MCP1_down;CCL2;-;;-;;;26.5;1.42;cytokine
+Heptachlor; NIS_HEK293T_CTG_Cytotoxicity;-;-;;-;;;26.7;1.43;cell cycle
+Heptachlor; ATG_IR1_CIS_dn;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;27.0;1.43;nuclear receptor
+Heptachlor; BSK_4H_VCAM1_down;VCAM1;-;;-;;;27.0;1.43;cell adhesion molecules
+Heptachlor; BSK_BE3C_TGFb1_down;TGFB1;-;;-;;;27.0;1.43;growth factor
+Heptachlor; BSK_SAg_SRB_down;-;-;;-;;;27.4;1.44;cell cycle
+Heptachlor; BSK_4H_uPAR_down;PLAUR;-;;-;;;28.1;1.45;cytokine
+Heptachlor; BSK_SAg_Eselectin_down;SELE;-;;-;;;28.3;1.45;cell adhesion molecules
+Heptachlor; BSK_CASM3C_HLADR_down;HLA-DRA;-;;-;;;28.7;1.46;cell adhesion molecules
+Heptachlor; BSK_LPS_VCAM1_down;VCAM1;-;;-;;;29.1;1.46;cell adhesion molecules
+Heptachlor; TOX21_ESRE_BLA_viability;-;-;;-;;;29.5;1.47;cell cycle
+Heptachlor; BSK_CASM3C_LDLR_down;LDLR;-;;-;;;29.7;1.47;misc protein
+Heptachlor; BSK_SAg_CD38_down;CD38;-;;-;;;30.0;1.48;cytokine
+Heptachlor; TOX21_AP1_BLA_Agonist_viability;-;-;;-;;;30.3;1.48;cell cycle
+Heptachlor; BSK_SAg_MCP1_down;CCL2;-;;-;;;30.4;1.48;cytokine
+Heptachlor; BSK_CASM3C_MCSF_down;CSF1;-;;-;;;30.6;1.49;cytokine
+Heptachlor; BSK_CASM3C_IL8_down;CXCL8;-;;-;;;30.7;1.49;cytokine
+Heptachlor; BSK_SAg_MIG_down;CXCL9;-;;-;;;30.8;1.49;cytokine
+Heptachlor; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;31.4;1.50;cell cycle
+Heptachlor; BSK_SAg_CD69_down;CD69;-;;-;;;31.7;1.50;cytokine
+Heptachlor; ATG_ISRE_CIS_dn;IRF1;-;;-;;;32.0;1.50;dna binding
+Heptachlor; BSK_CASM3C_SRB_down;-;-;;-;;;32.1;1.51;cell cycle
+Heptachlor; BSK_3C_Vis_down;-;-;;-;;;32.6;1.51;cell morphology
+Heptachlor; BSK_LPS_IL8_down;CXCL8;-;;-;;;32.7;1.51;cytokine
+Heptachlor; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;33.1;1.52;cell cycle
+Heptachlor; BSK_LPS_MCP1_down;CCL2;-;;-;;;33.3;1.52;cytokine
+Heptachlor; BSK_LPS_CD40_down;CD40;-;;-;;;33.3;1.52;cytokine
+Heptachlor; TOX21_PPARd_BLA_Agonist_viability;-;-;;-;;;33.4;1.52;cell cycle
+Heptachlor; BSK_3C_MIG_down;CXCL9;-;;-;;;33.4;1.52;cytokine
+Heptachlor; BSK_LPS_TNFa_down;TNF;-;;-;;;33.7;1.53;cytokine
+Heptachlor; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;34.2;1.53;cell cycle
+Heptachlor; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;34.6;1.54;cell cycle
+Heptachlor; BSK_CASM3C_Thrombomodulin_down;THBD;-;;-;;;35.2;1.55;gpcr
+Heptachlor; BSK_BE3C_IP10_down;CXCL10;-;;-;;;35.5;1.55;cytokine
+Heptachlor; BSK_BE3C_PAI1_down;SERPINE1;-;;-;;;36.0;1.56;cytokine
+Heptachlor; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;36.1;1.56;nuclear receptor
+Heptachlor; TOX21_FXR_BLA_agonist_viability;-;-;;-;;;36.2;1.56;cell cycle
+Heptachlor; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;36.5;1.56;cell cycle
+Heptachlor; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;36.7;1.56;cell cycle
+Heptachlor; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;37.2;1.57;cell cycle
+Heptachlor; APR_HepG2_CellCycleArrest_24h_dn;-;-;;-;;;37.2;1.57;cell cycle
+Heptachlor; BSK_LPS_TissueFactor_down;F3;-;;-;;;37.4;1.57;cytokine
+Heptachlor; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;37.7;1.58;cell cycle
+Heptachlor; TOX21_TR_LUC_GH3_Antagonist_viability;-;-;;-;;;37.8;1.58;cell cycle
+Heptachlor; BSK_CASM3C_MIG_down;CXCL9;-;;-;;;37.9;1.58;cytokine
+Heptachlor; TOX21_RT_HEPG2_FLO_16hr_ctrl_viability;-;-;;-;;;38.5;1.59;cell cycle
+Heptachlor; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;38.8;1.59;cell cycle
+Heptachlor; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;;-;;;39.9;1.60;nuclear receptor
+Heptachlor; TOX21_RT_HEK293_GLO_32hr_viability;-;-;;-;;;40.2;1.60;cell cycle
+Heptachlor; BSK_BE3C_MIG_down;CXCL9;-;;-;;;40.3;1.61;cytokine
+Heptachlor; TOX21_RT_HEK293_GLO_40hr_viability;-;-;;-;;;40.4;1.61;cell cycle
+Heptachlor; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;40.7;1.61;nuclear receptor
+Heptachlor; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;;-;;;41.4;1.62;cell cycle
+Heptachlor; TOX21_RT_HEPG2_FLO_32hr_ctrl_viability;-;-;;-;;;41.6;1.62;cell cycle
+Heptachlor; TOX21_MMP_ratio_down;-;-;;-;;;41.9;1.62;cell morphology
+Heptachlor; TOX21_RT_HEPG2_FLO_08hr_viability;-;-;-;-;-;-;42.0;1.62;cell cycle
+Hexachlorobenzene;-;-;-;-;-;-;-;-;-;-
+Mirex; BSK_LPS_PGE2_up;PTGER2;-;;-;;;1.14e-2;-1.94;gpcr
+Mirex; BSK_SAg_SRB_down;-;-;;-;;;6.34e-2;-1.20;cell cycle
+Mirex; BSK_LPS_TNFa_up;TNF;-;;-;;;8.76e-2;-1.06;cytokine
+Toxaphene;TOX21_DT40_657;-;-;;-;;;3.40;0.531;cell cycle
+Toxaphene; TOX21_ERa_BLA_Antagonist_ratio;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.23;0.626;nuclear receptor
+Toxaphene; TOX21_MMP_ratio_down;-;-;;-;;;4.27;0.631;cell morphology
+Toxaphene; TOX21_DT40;-;-;;-;;;4.74;0.676;cell cycle
+Toxaphene; TOX21_DT40_100;-;-;;-;;;4.99;0.698;cell cycle
+Toxaphene; TOX21_TR_LUC_GH3_Antagonist_viability;-;-;;-;;;5.43;0.735;cell cycle
+Toxaphene; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;10.3;1.01;DNA binding
+Toxaphene; TOX21_p53_BLA_p1_viability;-;-;;-;;;10.5;1.02;cell cycle
+Toxaphene; TOX21_GR_BLA_Antagonist_ratio;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;10.9;1.04;nuclear receptor
+Toxaphene; TOX21_p53_BLA_p3_viability;-;-;;-;;;11.0;1.04;cell cycle
+Toxaphene; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;;-;;;11.3;1.05;DNA binding
+Toxaphene; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;12.5;1.10;nuclear receptor
+Toxaphene; TOX21_p53_BLA_p2_viability;-;-;;-;;;13.0;1.12;cell cycle
+Toxaphene; TOX21_TSHR_Agonist_ratio;TSHR;-;;-;;;14.4;1.16;gpcr
+Toxaphene; TOX21_p53_BLA_p5_viability;-;-;;-;;;14.8;1.17;cell cycle
+Toxaphene; TOX21_GR_BLA_Antagonist_viability;-;-;;-;;;15.1;1.18;cell cycle
+Toxaphene; TOX21_p53_BLA_p4_viability;-;-;;-;;;16.1;1.21;cell cycle
+Toxaphene; TOX21_p53_BLA_p1_ratio;TP53;-;;-;;;20.3;1.31;DNA binding
+Toxaphene; TOX21_p53_BLA_p3_ratio;TP53;-;;-;;;20.4;1.31;DNA binding
+Toxaphene; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;21.3;1.33;nuclear receptor
+Toxaphene; TOX21_GR_BLA_Agonist_ratio;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;21.7;1.34;nuclear receptor
+Toxaphene; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;21.8;1.34;nuclear receptor
+Toxaphene; TOX21_AR_LUC_MDAKB2_Antagonist_Specificity;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;22.4;1.35;nuclear receptor
+Toxaphene; TOX21_p53_BLA_p2_ratio;TP53;-;;-;;;23.5;1.37;DNA binding
+Toxaphene; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;23.6;1.37;DNA binding
+Toxaphene; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;23.9;1.38;nuclear receptor
+Toxaphene; TOX21_p53_BLA_p5_ratio;TP53;-;;-;;;24.2;1.38;DNA binding
+Toxaphene; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;24.3;1.39;cell cycle
+Toxaphene; TOX21_AP1_BLA_Agonist_viability;-;-;;-;;;24.8;1.39;cell cycle
+Toxaphene; TOX21_ELG1_LUC_Agonist_viability;-;-;;-;;;24.9;1.40;cell cycle
+Toxaphene; TOX21_p53_BLA_p4_ratio;TP53;-;;-;;;25.5;1.41;DNA binding
+Toxaphene; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;;-;;;27.3;1.44;nuclear receptor
+Toxaphene; TOX21_HRE_BLA_Agonist_viability;-;-;;-;;;27.4;1.44;cell cycle
+Toxaphene; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;27.8;1.44;cell cycle
+Toxaphene; TOX21_PPARd_BLA_Agonist_viability;-;-;;-;;;28.9;1.46;cell cycle
+Toxaphene; TOX21_ERa_BLA_Antagonist_viability;-;-;;-;;;31.1;1.49;cell cycle
+Toxaphene; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;31.5;1.50;cell cycle
+Toxaphene; TOX21_VDR_BLA_antagonist_viability;-;-;;-;;;31.8;1.50;cell cycle
+Toxaphene; TOX21_AR_BLA_Antagonist_viability;-;-;;-;;;33.0;1.52;cell cycle
+Toxaphene; TOX21_ERa_LUC_BG1_Antagonist_Specificity;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;33.4;1.52;nuclear receptor
+Toxaphene; TOX21_ERa_BLA_Agonist_ratio;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;33.9;1.53;nuclear receptor
+Toxaphene; TOX21_RORg_LUC_CHO_Antagonist;RORC;-;;-;;;34.9;1.54;nuclear receptor
+Toxaphene; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;34.9;1.54;cell cycle
+Toxaphene; TOX21_HRE_BLA_Agonist_ratio;HIF1A;-;;-;;;35.5;1.55;DNA binding
+Toxaphene; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;35.7;1.55;cell cycle
+Toxaphene; TOX21_Aromatase_Inhibition;CYP19A1;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;964;Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol;MIE;35.9;1.56;cyp
+Toxaphene; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;36.0;1.56;cell cycle
+Toxaphene; TOX21_AR_BLA_Agonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;36.6;1.56;nuclear receptor
+Toxaphene; TOX21_RT_HEPG2_FLO_24hr_viability;-;-;;-;;;36.8;1.57;cell cycle
+Toxaphene; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;37.5;1.57;cell cycle
+Toxaphene; TOX21_FXR_BLA_agonist_viability;-;-;;-;;;37.8;1.58;cell cycle
+Toxaphene; TOX21_PPARg_BLA_Agonist_ratio;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;38.7;1.59;nuclear receptor
+Toxaphene; TOX21_ESRE_BLA_viability;-;-;;-;;;38.7;1.59;cell cycle
+Toxaphene; TOX21_FXR_BLA_antagonist_viability;-;-;;-;;;38.8;1.59;cell cycle
+Toxaphene; TOX21_RT_HEPG2_FLO_40hr_ctrl_viability;-;-;;-;;;41.4;1.62;cell cycle
+Toxaphene; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;41.7;1.62;cell cycle
+Toxaphene; TOX21_HSE_BLA_agonist_viability;-;-;;-;;;41.9;1.62;cell cycle
+2,2'-Dichlorobiphenyl;TOX21_AR_LUC_MDAKB2_Antagonist;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;13.6;1.13;nuclear receptor
+2,2'-Dichlorobiphenyl; TOX21_Aromatase_Inhibition;CYP19A1;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;964;Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol;MIE;13.9;1.14;cyp
+2,2'-Dichlorobiphenyl; TOX21_ARE_BLA_agonist_viability;-;-;;-;;;15.4;1.19;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;;-;;;17.4;1.24;nuclear receptor
+2,2'-Dichlorobiphenyl; TOX21_p53_BLA_p3_viability;-;-;;-;;;18.3;1.26;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_MMP_ratio_down;-;-;;-;;;18.9;1.28;cell morphology
+2,2'-Dichlorobiphenyl; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;20.7;1.32;DNA binding
+2,2'-Dichlorobiphenyl; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;34.0;1.53;nuclear receptor
+2,2'-Dichlorobiphenyl; TOX21_ESRE_BLA_viability;-;-;;-;;;34.1;1.53;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;34.5;1.54;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;37.6;1.58;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;39.2;1.59;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;41.8;1.62;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEPG2_FLO_24hr_viability;-;-;;-;;;42.8;1.63;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEPG2_FLO_32hr_ctrl_viability;-;-;;-;;;44.7;1.65;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RAR_LUC_Agonist_viability;-;-;;-;;;45.5;1.66;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEPG2_FLO_40hr_ctrl_viability;-;-;;-;;;48.1;1.68;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;49.3;1.69;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;49.4;1.69;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;49.8;1.70;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RT_HEK293_GLO_40hr_viability;-;-;;-;;;59.9;1.78;cell cycle
+2,2'-Dichlorobiphenyl; TOX21_RAR_LUC_Antagonist_viability;-;-;;-;;;64.0;1.81;cell cycle
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl;BSK_BE3C_MMP1_down;MMP1;-;;-;;;8.04e-4;-3.09;protease
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_CASM3C_Proliferation_up;-;-;;-;;;5.96e-2;-1.22;cell cycle
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_LPS_MCP1_down;CCL2;-;;-;;;7.37e-2;-1.13;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_CASM3C_VCAM1_down;VCAM1;-;;-;;;8.74e-2;-1.06;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_CASM3C_SRB_down;-;-;;-;;;0.122;-0.915;cell cycle
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_CASM3C_uPAR_down;PLAUR;-;;-;;;0.610;-0.215;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; ATG_DR5_CIS_dn;RARB;-;;-;;;0.810;-9.15e-2;nuclear receptor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_BE3C_uPAR_up;PLAUR;-;;-;;;1.34;0.126;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_Proliferation_down;-;-;;-;;;3.06;0.486;cell cycle
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; TOX21_RORg_LUC_CHO_Antagonist_viability;-;-;;-;;;3.19;0.503;cell cycle
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; ATG_RARa_TRANS_dn;RARA;-;;-;;;3.54;0.549;nuclear receptor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_BE3C_TGFb1_down;TGFB1;-;;-;;;3.66;0.563;growth factor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_PAI1_down;SERPINE1;-;;-;;;4.22;0.625;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;4.47;0.650;nuclear receptor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_CollagenIII_down;COL3A1;-;;-;;;4.62;0.665;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_BE3C_IL1a_down;IL1A;-;;-;;;4.73;0.674;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_BE3C_tPA_down;PLAT;-;;-;;;5.02;0.700;protease
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;5.34;0.727;nuclear receptor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_KF3CT_TGFb1_down;TGFB1;-;;-;;;5.59;0.747;growth factor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_LPS_VCAM1_down;VCAM1;-;;-;;;5.73;0.759;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; NVS_ENZ_hPTEN;PTEN;-;;-;;;5.87;0.768;phosphatase
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_3C_IL8_down;CXCL8;-;;-;;;6.68;0.825;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_4H_Pselectin_down;SELP;-;;-;;;7.37;0.868;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_3C_TissueFactor_down;F3;-;;-;;;7.79;0.892;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_LPS_IL8_down;CXCL8;-;;-;;;8.16;0.912;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;8.39;0.924;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_3C_Eselectin_down;SELE;-;;-;;;8.54;0.931;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;8.92;0.950;protease inhibitor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_SAg_CD38_down;CD38;-;;-;;;9.19;0.963;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_SAg_Eselectin_down;SELE;-;;-;;;9.73;0.988;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_KF3CT_MMP9_down;MMP9;-;;-;;;10.2;1.01;protease
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_MCSF_down;CSF1;-;;-;;;10.4;1.02;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_4H_MCP1_down;CCL2;-;;-;;;10.8;1.03;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_TIMP1_down;TIMP1;-;;-;;;11.3;1.05;protease inhibitor
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_4H_VCAM1_down;VCAM1;-;;-;;;11.4;1.06;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;11.6;1.06;kinase
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_KF3CT_uPA_down;PLAU;-;;-;;;11.6;1.06;protease
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;11.7;1.07;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_LPS_IL1a_down;IL1A;-;;-;;;12.1;1.08;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_3C_VCAM1_down;VCAM1;-;;-;;;12.4;1.09;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_KF3CT_IL1a_down;IL1A;-;;-;;;12.6;1.10;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_VCAM1_down;VCAM1;-;;-;;;12.7;1.10;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_LPS_Eselectin_down;SELE;-;;-;;;12.9;1.11;cell adhesion molecules
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_hDFCGF_SRB_down;-;-;;-;;;12.9;1.11;cell cycle
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_BE3C_PAI1_down;SERPINE1;-;;-;;;13.7;1.14;cytokine
+2,2',3,4',5,5',6-Heptachloro-1,1'-biphenyl; BSK_SAg_Proliferation_down;-;-;;-;;;14.0;1.15;cell cycle
+2,2',4,4',5,5'-Hexachlorobiphenyl;TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;35.4;1.55;nuclear receptor
+2,3,7,8-Tetrachlorodibenzodioxin;TOX21_AhR_LUC_Agonist;AHR;150;Aryl hydrocarbon receptor activation leading to early life stage mortality, via reduced VEGF;18;Activation, AhR;MIE;2.64e-4;-3.58;DNA binding
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_ERa_LUC_BG1_Antagonist_Specificity;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;4.43e-4;-3.35;nuclear receptor
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;4.70e-4;-3.33;DNA binding
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;1.73e-3;-2.76;nuclear receptor
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_PGC_ERR_Antagonist;ESRRA;-;;-;;;2.45e-3;-2.61;nuclear receptor
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_ERa_LUC_BG1_Antagonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;3.58e-3;-2.45;nuclear receptor
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_RT_HEPG2_FLO_40hr_ctrl_viability;-;-;;-;;;3.27e-2;-1.49;cell cycle
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;0.165;-0.782;cell cycle
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;0.245;-0.610;cell cycle
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;0.245;-0.610;cell cycle
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_RT_HEK293_GLO_32hr_viability;-;-;;-;;;0.245;-0.610;cell cycle
+2,3,7,8-Tetrachlorodibenzodioxin; TOX21_RT_HEK293_GLO_40hr_viability;-;-;;-;;;0.245;-0.610;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane;TOX21_TSHR_Agonist_ratio;TSHR;-;;-;;;14.0;1.15;gpcr
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;26.5;1.42;nuclear receptor
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_AR_BLA_Antagonist_viability;-;-;;-;;;33.3;1.52;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;36.1;1.56;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_DT40;-;-;;-;;;36.8;1.57;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;36.8;1.57;DNA binding
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;37.1;1.57;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;38.1;1.58;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;39.1;1.59;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_Aromatase_Inhibition_viability;-;-;;-;;;42.8;1.63;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;42.9;1.63;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;44.6;1.65;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;46.0;1.66;cell cycle
+alpha-1,2,3,4,5,6-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;49.2;1.69;cell cycle
+beta-Hexachlorocyclohexane;NVS_ENZ_hHDAC6;HDAC6;-;;-;;;1.37e-2;-1.86;hydrolase
+beta-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;3.76e-2;-1.42;cell cycle
+beta-Hexachlorocyclohexane; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.543;-0.265;nuclear receptor
+beta-Hexachlorocyclohexane; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.863;-6.40e-2;nuclear receptor
+beta-Hexachlorocyclohexane; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;0.909;-4.15e-2;nuclear receptor
+beta-Hexachlorocyclohexane; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.60;0.205;nuclear receptor
+beta-Hexachlorocyclohexane; ATG_DR5_CIS_up;RARB;-;;-;;;2.53;0.403;nuclear receptor
+beta-Hexachlorocyclohexane; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;2.83;0.451;nuclear receptor
+beta-Hexachlorocyclohexane; TOX21_ERb_BLA_Agonist_ratio;ESR2;-;;-;;;2.85;0.455;nuclear receptor
+beta-Hexachlorocyclohexane; ATG_HIF1a_CIS_dn;HIF1A;-;;-;;;5.59;0.747;dna binding
+beta-Hexachlorocyclohexane; ACEA_ER_80hr;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;5.78;0.762;nuclear receptor
+beta-Hexachlorocyclohexane; NVS_ADME_hCYP4F12;CYP4F12;-;;-;;;15.3;1.18;cyp
+beta-Hexachlorocyclohexane; ACEA_AR_agonist_AUC_viability;-;-;;-;;;30.5;1.48;cell cycle
+beta-Hexachlorocyclohexane; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;31.3;1.50;cell cycle
+beta-Hexachlorocyclohexane; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;34.0;1.53;nuclear receptor
+beta-Hexachlorocyclohexane; TOX21_RXR_BLA_Agonist_ratio;RXRA;-;;-;;;43.6;1.64;DNA binding
+beta-Hexachlorocyclohexane; TOX21_PPARd_BLA_agonist_ratio;PPARD;36;Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis;232;Decreased, PPAR-beta activation;MIE;44.9;1.65;nuclear receptor
+beta-Hexachlorocyclohexane; TOX21_VDR_BLA_agonist_ratio;CYP24A1;-;;-;;;46.9;1.67;nuclear receptor
+beta-Hexachlorocyclohexane; TOX21_MMP_ratio_down;-;-;;-;;;50.4;1.70;cell morphology
+beta-Hexachlorocyclohexane; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;52.1;1.72;cell cycle
+Kepone;NVS_ADME_hCYP2C9;CYP2C9;-;;-;;;8.40e-2;-1.08;cyp
+Kepone; NVS_GPCR_hAdoRA2a;ADORA2A;-;;-;;;0.115;-0.941;gpcr
+Kepone; NVS_GPCR_h5HT5A;HTR5A;-;;-;;;0.137;-0.864;gpcr
+Kepone; NVS_ADME_rCYP2C11;CYP2C11;-;;-;;;0.168;-0.775;cyp
+Kepone; NVS_NR_hGR;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;0.217;-0.664;nuclear receptor
+Kepone; NVS_NR_mERa;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.309;-0.510;nuclear receptor
+Kepone; NVS_ADME_hCYP2C19;CYP2C19;-;;-;;;0.341;-0.468;cyp
+Kepone; NVS_ADME_hCYP2C18;CYP2C18;-;;-;;;0.533;-0.273;cyp
+Kepone; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.607;-0.216;nuclear receptor
+Kepone; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.619;-0.208;nuclear receptor
+Kepone; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;0.727;-0.139;nuclear receptor
+Kepone; NVS_NR_rAR;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;0.748;-0.126;nuclear receptor
+Kepone; NVS_ADME_hCYP2B6;CYP2B6;-;;-;;;0.796;-9.89e-2;cyp
+Kepone; TOX21_MMP_ratio_down;-;-;;-;;;0.913;-3.96e-2;cell morphology
+Kepone; NVS_GPCR_hAdrb1;ADRB1;-;;-;;;0.925;-3.37e-2;gpcr
+Kepone; NVS_TR_hNET;SLC6A2;-;;-;;;0.951;-2.19e-2;transporter
+Kepone; BSK_hDFCGF_Proliferation_down;-;-;;-;;;1.01;2.50e-3;cell cycle
+Kepone; NVS_ADME_rCYP3A2;CYP3A2;-;;-;;;1.14;5.56e-2;cyp
+Kepone; NVS_GPCR_hDRD1;DRD1;-;;-;;;1.16;6.43e-2;gpcr
+Kepone; BSK_hDFCGF_EGFR_down;EGFR;-;;-;;;1.31;0.116;kinase
+Kepone; NVS_ADME_rCYP2B1;CYP2B1;-;;-;;;1.54;0.186;cyp
+Kepone; NVS_GPCR_h5HT7;HTR7;-;;-;;;1.63;0.212;gpcr
+Kepone; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.74;0.241;nuclear receptor
+Kepone; NVS_GPCR_hOpiate_mu;OPRM1;-;;-;;;1.83;0.263;gpcr
+Kepone; ATG_VDRE_CIS_up;VDR;-;;-;;;2.18;0.338;nuclear receptor
+Kepone; BSK_BE3C_tPA_down;PLAT;-;;-;;;2.30;0.363;protease
+Kepone; ATG_GRE_CIS_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;2.68;0.428;nuclear receptor
+Kepone; ATG_E_Box_CIS_dn;USF1;-;;-;;;2.72;0.434;dna binding
+Kepone; ATG_Sox_CIS_up;SOX1;-;;-;;;3.16;0.500;dna binding
+Kepone; ATG_RXRb_TRANS_up;RXRB;-;;-;;;3.20;0.505;nuclear receptor
+Kepone; BSK_hDFCGF_CollagenIII_down;COL3A1;-;;-;;;3.21;0.507;cell adhesion molecules
+Kepone; Tanguay_ZF_120hpf_PIG_up;-;-;;-;;;3.25;0.511;malformation
+Kepone; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;3.26;0.513;nuclear receptor
+Kepone; OT_ERa_EREGFP_0480;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;3.39;0.530;nuclear receptor
+Kepone; ATG_AP_1_CIS_up;FOS;-;;-;;;3.40;0.531;dna binding
+Kepone; NVS_ADME_rCYP3A1;CYP3A23/3A1;-;;-;;;3.48;0.542;cyp
+Kepone; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;;-;;;3.52;0.546;malformation
+Kepone; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;;-;;;3.64;0.561;nuclear receptor
+Kepone; BSK_hDFCGF_IP10_down;CXCL10;-;;-;;;3.76;0.575;cytokine
+Kepone; OT_ERa_EREGFP_0120;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;3.91;0.593;nuclear receptor
+Kepone; ATG_GLI_CIS_up;GLI1;-;;-;;;4.17;0.620;dna binding
+Kepone; BSK_hDFCGF_VCAM1_down;VCAM1;-;;-;;;4.18;0.621;cell adhesion molecules
+Kepone; ATG_THRa1_TRANS_up;THRA;-;;-;;;4.21;0.624;nuclear receptor
+Kepone; BSK_BE3C_TGFb1_down;TGFB1;-;;-;;;4.63;0.665;growth factor
+Kepone; BSK_3C_Vis_down;-;-;;-;;;4.92;0.692;cell morphology
+Kepone; BSK_4H_MCP1_down;CCL2;-;;-;;;4.98;0.697;cytokine
+Kepone; NVS_ADME_rCYP2C6;CYP2C6V1;-;;-;;;5.00;0.699;cyp
+Kepone; BSK_3C_Proliferation_down;-;-;;-;;;5.01;0.699;cell cycle
+Kepone; BSK_SAg_PBMCCytotoxicity_down;-;-;;-;;;5.10;0.707;cell cycle
+Kepone; BSK_SAg_Proliferation_down;-;-;;-;;;5.13;0.710;cell cycle
+Kepone; BSK_3C_TissueFactor_down;F3;-;;-;;;5.30;0.724;cytokine
+Kepone; NVS_ENZ_hMMP7;MMP7;-;;-;;;5.41;0.733;protease
+Kepone; BSK_KF3CT_TGFb1_down;TGFB1;-;;-;;;5.70;0.756;growth factor
+Kepone; ATG_STAT3_CIS_dn;STAT3;-;;-;;;5.72;0.758;dna binding
+Kepone; ATG_NRF2_ARE_CIS_up;NFE2L2;-;;-;;;5.73;0.758;dna binding
+Kepone; BSK_LPS_CD40_down;CD40;-;;-;;;5.74;0.759;cytokine
+Kepone; BSK_LPS_IL1a_down;IL1A;-;;-;;;5.75;0.760;cytokine
+Kepone; BSK_BE3C_uPAR_down;PLAUR;-;;-;;;5.79;0.762;cytokine
+Kepone; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;5.83;0.766;cell adhesion molecules
+Kepone; BSK_SAg_SRB_down;-;-;;-;;;5.97;0.776;cell cycle
+Kepone; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;5.97;0.776;cell adhesion molecules
+Kepone; BSK_3C_SRB_down;-;-;;-;;;6.15;0.789;cell cycle
+Kepone; BSK_LPS_SRB_down;-;-;;-;;;6.17;0.791;cell cycle
+Kepone; BSK_BE3C_PAI1_down;SERPINE1;-;;-;;;6.23;0.795;cytokine
+Kepone; BSK_3C_uPAR_down;PLAUR;-;;-;;;6.26;0.796;cytokine
+Kepone; BSK_SAg_CD69_down;CD69;-;;-;;;6.27;0.797;cytokine
+Kepone; BSK_BE3C_IP10_down;CXCL10;-;;-;;;6.29;0.798;cytokine
+Kepone; BSK_SAg_CD38_down;CD38;-;;-;;;6.36;0.804;cytokine
+Kepone; BSK_KF3CT_MMP9_down;MMP9;-;;-;;;6.40;0.806;protease
+Kepone; BSK_CASM3C_Proliferation_down;-;-;;-;;;6.49;0.812;cell cycle
+Kepone; BSK_4H_SRB_down;-;-;;-;;;6.55;0.816;cell cycle
+Kepone; NVS_NR_hER;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;6.57;0.817;nuclear receptor
+Kepone; BSK_BE3C_uPA_down;PLAU;-;;-;;;6.62;0.821;protease
+Kepone; BSK_hDFCGF_PAI1_down;SERPINE1;-;;-;;;6.66;0.823;cytokine
+Kepone; BSK_SAg_CD40_down;CD40;-;;-;;;6.70;0.826;cytokine
+Kepone; BSK_4H_uPAR_down;PLAUR;-;;-;;;6.73;0.828;cytokine
+Kepone; BSK_BE3C_MIG_down;CXCL9;-;;-;;;6.76;0.830;cytokine
+Kepone; BSK_KF3CT_SRB_down;-;-;;-;;;6.82;0.834;cell cycle
+Kepone; BSK_LPS_PGE2_down;PTGER2;-;;-;;;6.85;0.836;gpcr
+Kepone; BSK_4H_VCAM1_down;VCAM1;-;;-;;;6.97;0.843;cell adhesion molecules
+Kepone; APR_HepG2_MitoMembPot_24h_dn;-;-;;-;;;7.00;0.845;cell morphology
+Kepone; BSK_BE3C_MMP1_down;MMP1;-;;-;;;7.04;0.848;protease
+Kepone; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;7.06;0.849;nuclear receptor
+Kepone; BSK_4H_Eotaxin3_down;CCL26;-;;-;;;7.09;0.851;cytokine
+Kepone; BSK_BE3C_SRB_down;-;-;;-;;;7.24;0.860;cell cycle
+Kepone; Tanguay_ZF_120hpf_AXIS_up;-;-;;-;;;7.34;0.866;malformation
+Kepone; BSK_CASM3C_LDLR_down;LDLR;-;;-;;;7.44;0.872;misc protein
+Kepone; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;7.49;0.875;kinase
+Kepone; BSK_4H_Pselectin_down;SELP;-;;-;;;7.55;0.878;cell adhesion molecules
+Kepone; ACEA_ER_AUC_viability;-;-;;-;;;7.73;0.888;cell cycle
+Kepone; Tanguay_ZF_120hpf_TR_up;-;-;;-;;;7.74;0.889;malformation
+Kepone; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;7.78;0.891;nuclear receptor
+Kepone; BSK_LPS_VCAM1_down;VCAM1;-;;-;;;7.83;0.894;cell adhesion molecules
+Kepone; BSK_BE3C_IL1a_down;IL1A;-;;-;;;7.91;0.898;cytokine
+Kepone; BSK_SAg_MCP1_down;CCL2;-;;-;;;8.02;0.904;cytokine
+Kepone; BSK_SAg_MIG_down;CXCL9;-;;-;;;8.14;0.911;cytokine
+Kepone; BSK_3C_MIG_down;CXCL9;-;;-;;;8.20;0.914;cytokine
+Kepone; BSK_3C_VCAM1_down;VCAM1;-;;-;;;8.25;0.917;cell adhesion molecules
+Kepone; BSK_3C_MCP1_down;CCL2;-;;-;;;8.31;0.919;cytokine
+Kepone; BSK_LPS_TNFa_down;TNF;-;;-;;;8.47;0.928;cytokine
+Kepone; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;8.47;0.928;cell cycle
+Kepone; BSK_LPS_MCSF_down;CSF1;-;;-;;;8.56;0.933;cytokine
+Kepone; BSK_LPS_MCP1_down;CCL2;-;;-;;;8.58;0.933;cytokine
+Kepone; BSK_3C_ICAM1_down;ICAM1;-;;-;;;8.65;0.937;cell adhesion molecules
+Kepone; BSK_KF3CT_uPA_down;PLAU;-;;-;;;8.69;0.939;protease
+Kepone; ACEA_AR_agonist_AUC_viability;-;-;;-;;;8.74;0.942;cell cycle
+Kepone; BSK_LPS_Eselectin_down;SELE;-;;-;;;8.88;0.948;cell adhesion molecules
+Kepone; BSK_KF3CT_IP10_down;CXCL10;-;;-;;;8.89;0.949;cytokine
+Kepone; APR_HepG2_MitoMembPot_72h_dn;-;-;;-;;;9.03;0.956;cell morphology
+Kepone; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;9.07;0.958;nuclear receptor
+Kepone; BSK_3C_Eselectin_down;SELE;-;;-;;;9.09;0.958;cell adhesion molecules
+Kepone; BSK_LPS_TissueFactor_down;F3;-;;-;;;9.12;0.960;cytokine
+Kepone; Tanguay_ZF_120hpf_EYE_up;-;-;;-;;;9.21;0.964;malformation
+Kepone; APR_HepG2_p53Act_72h_up;TP53;-;;-;;;9.38;0.972;dna binding
+Kepone; ATG_FXR_TRANS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;9.99;1.00;nuclear receptor
+Kepone; ATG_RARg_TRANS_up;RARG;-;;-;;;10.3;1.01;nuclear receptor
+Kepone; TOX21_GR_BLA_Antagonist_ratio;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;10.3;1.01;nuclear receptor
+Kepone; BSK_hDFCGF_IL8_down;CXCL8;-;;-;;;10.5;1.02;cytokine
+Kepone; BSK_SAg_Eselectin_down;SELE;-;;-;;;10.6;1.02;cell adhesion molecules
+Kepone; TOX21_TR_LUC_GH3_Antagonist_viability;-;-;;-;;;10.7;1.03;cell cycle
+Kepone; BSK_LPS_IL8_down;CXCL8;-;;-;;;10.7;1.03;cytokine
+Kepone; BSK_CASM3C_HLADR_down;HLA-DRA;-;;-;;;10.8;1.03;cell adhesion molecules
+Kepone; BSK_CASM3C_TissueFactor_down;F3;-;;-;;;11.9;1.07;cytokine
+Kepone; BSK_SAg_IL8_down;CXCL8;-;;-;;;12.0;1.08;cytokine
+Kepone; TOX21_ERa_BLA_Agonist_ratio;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;12.0;1.08;nuclear receptor
+Kepone; APR_HepG2_NuclearSize_72h_dn;-;-;;-;;;12.4;1.09;cell morphology
+Kepone; ATG_MRE_CIS_up;MTF1;-;;-;;;12.6;1.10;dna binding
+Kepone; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;13.8;1.14;protease inhibitor
+Kepone; TOX21_DT40;-;-;;-;;;13.8;1.14;cell cycle
+Kepone; BSK_CASM3C_uPAR_down;PLAUR;-;;-;;;15.8;1.20;cytokine
+Kepone; TOX21_DT40_657;-;-;;-;;;16.2;1.21;cell cycle
+Kepone; BSK_hDFCGF_MMP1_down;MMP1;-;;-;;;16.4;1.21;protease
+Kepone; BSK_hDFCGF_SRB_down;-;-;;-;;;16.6;1.22;cell cycle
+Kepone; OT_FXR_FXRSRC1_0480;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;16.6;1.22;nuclear receptor
+Kepone; BSK_KF3CT_IL1a_down;IL1A;-;;-;;;17.3;1.24;cytokine
+Kepone; OT_AR_ARSRC1_0960;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;17.4;1.24;nuclear receptor
+Kepone; BSK_3C_IL8_down;CXCL8;-;;-;;;17.7;1.25;cytokine
+Kepone; APR_HepG2_CellLoss_72h_dn;-;-;;-;;;18.3;1.26;cell cycle
+Kepone; BSK_hDFCGF_MCSF_down;CSF1;-;;-;;;18.5;1.27;cytokine
+Kepone; ATG_XTT_Cytotoxicity_up;-;-;;-;;;18.6;1.27;cell cycle
+Kepone; OT_ER_ERaERb_1440;ESR2;-;;-;;;19.4;1.29;nuclear receptor
+Kepone; TOX21_RORg_LUC_CHO_Antagonist;RORC;-;;-;;;19.7;1.30;nuclear receptor
+Kepone; TOX21_RT_HEK293_GLO_40hr_viability;-;-;;-;;;19.7;1.30;cell cycle
+Kepone; TOX21_DT40_100;-;-;;-;;;20.3;1.31;cell cycle
+Kepone; BSK_CASM3C_SRB_down;-;-;;-;;;20.6;1.31;cell cycle
+Kepone; APR_HepG2_CellCycleArrest_72h_dn;-;-;;-;;;20.7;1.32;cell cycle
+Kepone; BSK_CASM3C_SAA_down;SAA1;-;;-;;;21.5;1.33;cell adhesion molecules
+Kepone; TOX21_RT_HEK293_GLO_00hr_viability;-;-;;-;;;21.8;1.34;cell cycle
+Kepone; BSK_CASM3C_MCSF_down;CSF1;-;;-;;;22.9;1.36;cytokine
+Kepone; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;23.1;1.36;cell cycle
+Kepone; BSK_CASM3C_VCAM1_down;VCAM1;-;;-;;;23.8;1.38;cell adhesion molecules
+Kepone; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;23.8;1.38;DNA binding
+Kepone; TOX21_RT_HEK293_GLO_32hr_viability;-;-;;-;;;24.3;1.39;cell cycle
+Kepone; BSK_hDFCGF_MIG_down;CXCL9;-;;-;;;24.5;1.39;cytokine
+Kepone; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;25.4;1.41;cell cycle
+Kepone; TOX21_Aromatase_Inhibition;CYP19A1;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;964;Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol;MIE;25.5;1.41;cyp
+Kepone; TOX21_GR_BLA_Antagonist_viability;-;-;;-;;;25.8;1.41;cell cycle
+Kepone; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;26.2;1.42;nuclear receptor
+Kepone; BSK_KF3CT_ICAM1_down;ICAM1;-;;-;;;28.8;1.46;cell adhesion molecules
+Kepone; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;29.1;1.46;cell cycle
+Kepone; OT_AR_ARSRC1_0480;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;29.3;1.47;nuclear receptor
+Kepone; TOX21_PPARd_BLA_antagonist_viability;-;-;;-;;;30.2;1.48;cell cycle
+Kepone; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;;-;;;30.4;1.48;DNA binding
+Kepone; TOX21_AP1_BLA_Agonist_viability;-;-;;-;;;30.5;1.48;cell cycle
+Kepone; BSK_CASM3C_MIG_down;CXCL9;-;;-;;;30.8;1.49;cytokine
+Kepone; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;31.0;1.49;cell cycle
+Kepone; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;31.4;1.50;cell cycle
+Kepone; TOX21_Aromatase_Inhibition_viability;-;-;;-;;;31.6;1.50;cell cycle
+Kepone; TOX21_PPARg_BLA_antagonist_viability;-;-;;-;;;32.2;1.51;cell cycle
+Kepone; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;32.2;1.51;cell cycle
+Kepone; TOX21_RT_HEPG2_FLO_40hr_ctrl_viability;-;-;;-;;;32.4;1.51;cell cycle
+Kepone; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;;-;;;32.7;1.51;cell cycle
+Kepone; TOX21_FXR_BLA_antagonist_ratio;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;32.8;1.52;nuclear receptor
+Kepone; BSK_CASM3C_MCP1_down;CCL2;-;;-;;;33.0;1.52;cytokine
+Kepone; TOX21_RT_HEPG2_FLO_16hr_ctrl_viability;-;-;;-;;;33.3;1.52;cell cycle
+Kepone; BSK_CASM3C_Thrombomodulin_down;THBD;-;;-;;;33.3;1.52;gpcr
+Kepone; BSK_hDFCGF_TIMP1_down;TIMP1;-;;-;;;33.3;1.52;protease inhibitor
+Kepone; TOX21_PPARd_BLA_antagonist_ratio;PPARD;36;Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis;232;Decreased, PPAR-beta activation;MIE;33.4;1.52;nuclear receptor
+Kepone; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;33.5;1.52;cell cycle
+Kepone; BSK_CASM3C_IL6_down;IL6;-;;-;;;33.5;1.53;cytokine
+Kepone; BSK_CASM3C_IL8_down;CXCL8;-;;-;;;34.2;1.53;cytokine
+Kepone; BSK_KF3CT_MCP1_down;CCL2;-;;-;;;34.3;1.54;cytokine
+Kepone; TOX21_PPARd_BLA_Agonist_viability;-;-;;-;;;34.3;1.54;cell cycle
+Kepone; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;35.4;1.55;cell cycle
+Kepone; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;35.6;1.55;cell cycle
+Kepone; TOX21_RT_HEPG2_FLO_32hr_ctrl_viability;-;-;;-;;;36.4;1.56;cell cycle
+Kepone; TOX21_ESRE_BLA_viability;-;-;;-;;;36.5;1.56;cell cycle
+Kepone; APR_HepG2_CellLoss_24h_dn;-;-;;-;;;37.2;1.57;cell cycle
+Kepone; TOX21_RT_HEPG2_FLO_08hr_viability;-;-;;-;;;37.9;1.58;cell cycle
+Kepone; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;38.5;1.59;cell cycle
+Kepone; TOX21_CAR_Antagonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;39.0;1.59;nuclear receptor
+Kepone; TOX21_RT_HEPG2_FLO_24hr_viability;-;-;;-;;;39.4;1.60;cell cycle
+Kepone; TOX21_RT_HEPG2_GLO_16hr_ctrl_viability;-;-;;-;;;40.5;1.61;cell cycle
+1,1'-Oxybis[2,3,4,5,6-pentabromobenzene]; NVS_ENZ_hPTEN_Activator;PTEN;-;;-;;;0.311;-0.508;phosphatase
+1,1'-Oxybis[2,3,4,5,6-pentabromobenzene]; ACEA_ER_AUC_viability;-;-;;-;;;6.45;0.810;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane;BSK_CASM3C_Proliferation_up;-;-;;-;;;8.67e-2;-1.06;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_BE3C_MMP1_up;MMP1;-;;-;;;0.892;-4.97e-2;protease
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_hDFCGF_PAI1_down;SERPINE1;-;;-;;;0.954;-2.05e-2;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_hDFCGF_Proliferation_down;-;-;;-;;;0.970;-1.31e-2;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_CASM3C_Thrombomodulin_up;THBD;-;;-;;;1.10;4.14e-2;gpcr
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;1.14;5.81e-2;protease inhibitor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.21;8.29e-2;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_hDFCGF_SRB_down;-;-;;-;;;1.24;9.44e-2;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_MCP1_down;CCL2;-;;-;;;1.27;0.104;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;1.28;0.108;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_hDFCGF_MCSF_down;CSF1;-;;-;;;1.30;0.113;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_BE3C_IP10_down;CXCL10;-;;-;;;1.54;0.186;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_IL8_down;CXCL8;-;;-;;;1.86;0.270;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_IL8_down;CXCL8;-;;-;;;1.98;0.297;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_hDFCGF_VCAM1_down;VCAM1;-;;-;;;2.24;0.350;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_Pselectin_down;SELP;-;;-;;;2.31;0.364;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_SAg_Proliferation_down;-;-;;-;;;2.42;0.385;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_KF3CT_MMP9_down;MMP9;-;;-;;;2.59;0.414;protease
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_SRB_down;-;-;;-;;;2.73;0.436;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_VCAM1_down;VCAM1;-;;-;;;2.82;0.451;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_SAg_PBMCCytotoxicity_down;-;-;;-;;;2.87;0.458;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_PGE2_up;PTGER2;-;;-;;;2.91;0.464;gpcr
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;3.13;0.496;kinase
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_Eotaxin3_down;CCL26;-;;-;;;3.17;0.502;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_VDRE_CIS_up;VDR;-;;-;;;3.29;0.517;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;3.41;0.533;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;3.42;0.535;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_SAg_CD38_down;CD38;-;;-;;;3.43;0.536;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_uPAR_down;PLAUR;-;;-;;;3.44;0.536;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_MCSF_down;CSF1;-;;-;;;3.45;0.538;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_CD40_down;CD40;-;;-;;;3.52;0.547;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_KF3CT_IP10_down;CXCL10;-;;-;;;3.58;0.554;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_KF3CT_uPA_down;PLAU;-;;-;;;3.85;0.585;protease
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_4H_uPAR_down;PLAUR;-;;-;;;3.95;0.597;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_Proliferation_down;-;-;;-;;;3.95;0.597;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_IL1a_down;IL1A;-;;-;;;4.37;0.640;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_SAg_SRB_down;-;-;;-;;;4.43;0.646;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_VCAM1_down;VCAM1;-;;-;;;4.46;0.649;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_VCAM1_down;VCAM1;-;;-;;;4.53;0.656;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_SAg_CD40_down;CD40;-;;-;;;4.58;0.661;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_LPS_SRB_down;-;-;;-;;;4.67;0.669;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_MMP_ratio_down;-;-;;-;;;4.72;0.674;cell morphology
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_SRB_down;-;-;;-;;;4.83;0.684;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_Vis_down;-;-;;-;;;5.15;0.712;cell morphology
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_MCP1_down;CCL2;-;;-;;;5.23;0.718;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_3C_Eselectin_down;SELE;-;;-;;;5.85;0.767;cell adhesion molecules
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_SAg_CD69_down;CD69;-;;-;;;5.90;0.771;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_PBREM_CIS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;6.18;0.791;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_NRF2_ARE_CIS_up;NFE2L2;-;;-;;;6.74;0.829;dna binding
+1,2,5,6,9,10-Hexabromocyclododecane; BSK_KF3CT_IL1a_up;IL1A;-;;-;;;7.73;0.888;cytokine
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_RXRb_TRANS_up;RXRB;-;;-;;;8.14;0.911;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; NVS_GPCR_hTXA2;TBXA2R;-;;-;;;8.68;0.939;gpcr
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_p53_BLA_p3_viability;-;-;;-;;;9.52;0.979;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; ACEA_ER_AUC_viability;-;-;;-;;;9.78;0.990;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_VDR_BLA_antagonist_viability;-;-;;-;;;11.4;1.06;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;13.6;1.13;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_FXR_TRANS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;14.3;1.16;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;15.5;1.19;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;16.3;1.21;DNA binding
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_TR_LUC_GH3_Antagonist_viability;-;-;;-;;;17.5;1.24;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;18.2;1.26;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; OT_AR_ARSRC1_0960;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;20.1;1.30;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; OT_FXR_FXRSRC1_1440;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;20.6;1.31;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_Pax6_CIS_up;PAX6;-;;-;;;20.8;1.32;dna binding
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_CAR_Antagonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;20.8;1.32;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_p53_BLA_p4_viability;-;-;;-;;;22.2;1.35;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;23.3;1.37;DNA binding
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_p53_BLA_p1_viability;-;-;;-;;;24.6;1.39;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_p53_BLA_p2_viability;-;-;;-;;;24.6;1.39;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_FXR_BLA_agonist_viability;-;-;;-;;;25.2;1.40;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_PPARg_BLA_antagonist_viability;-;-;;-;;;25.2;1.40;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_PPARd_BLA_antagonist_viability;-;-;;-;;;26.2;1.42;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_FXR_BLA_antagonist_ratio;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;27.0;1.43;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_DT40;-;-;;-;;;27.3;1.44;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_PPARd_BLA_Agonist_viability;-;-;;-;;;27.5;1.44;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_RORg_LUC_CHO_Antagonist;RORC;-;;-;;;27.6;1.44;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_PPARg_TRANS_up;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;27.6;1.44;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;;-;;;29.5;1.47;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_HRE_BLA_Agonist_ratio;HIF1A;-;;-;;;30.1;1.48;DNA binding
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_PGC_ERR_Antagonist;ESRRA;-;;-;;;31.0;1.49;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; OT_FXR_FXRSRC1_0480;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;31.1;1.49;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_ERb_BLA_Agonist_viability;-;-;;-;;;31.3;1.49;cell cycle
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;36.5;1.56;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_EGR_CIS_up;EGR1;-;;-;;;37.2;1.57;dna binding
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_RARg_TRANS_up;RARG;-;;-;;;37.3;1.57;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; ATG_AP_1_CIS_up;FOS;-;;-;;;37.8;1.58;dna binding
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_ERR_Antagonist;ESRRA;-;;-;;;38.1;1.58;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; OT_ER_ERaERb_1440;ESR2;-;;-;;;38.4;1.58;nuclear receptor
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;;-;;;39.4;1.60;DNA binding
+1,2,5,6,9,10-Hexabromocyclododecane; TOX21_p53_BLA_p1_ratio;TP53;-;;-;;;39.9;1.60;DNA binding
+2,2',4,4',5,5'-Hexabromodiphenyl ether; TOX21_p53_BLA_p2_ratio;TP53;-;;-;;;7.36;0.867;DNA binding
+2,2',4,4',5,5'-Hexabromodiphenyl ether; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;;-;;;14.2;1.15;DNA binding
+2,2',4,4',5,5'-Hexabromodiphenyl ether; TOX21_HRE_BLA_Agonist_viability;-;-;;-;;;22.4;1.35;cell cycle
+2,2',4,4',5,5'-Hexabromodiphenyl ether; TOX21_NFkB_BLA_agonist_viability;-;-;;-;;;23.3;1.37;cell cycle
+2,2',4,4',5,5'-Hexabromodiphenyl ether; TOX21_AR_LUC_MDAKB2_Antagonist;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;29.0;1.46;nuclear receptor
+Hexachloro-1,3-butadiene; TOX21_p53_BLA_p5_ratio;TP53;-;-;-;-;-;8.86e-5;-4.05;DNA binding
+Hexachloro-1,3-butadiene; BSK_CASM3C_TissueFactor_down;F3;-;-;-;-;-;3.39e-3;-2.47;cytokine
+Hexachloro-1,3-butadiene; BSK_LPS_PGE2_up;PTGER2;-;-;-;-;-;9.78e-3;-2.01;gpcr
+Hexachloro-1,3-butadiene; BSK_CASM3C_Thrombomodulin_down;THBD;-;-;-;-;-;0.152;-0.817;gpcr
+Hexachloro-1,3-butadiene; BSK_hDFCGF_PAI1_down;SERPINE1;-;-;-;-;-;1.45;0.161;cytokine
+Hexachloro-1,3-butadiene; BSK_CASM3C_SRB_down;-;-;-;-;-;-;2.51;0.400;cell cycle
+Hexachloro-1,3-butadiene; BSK_CASM3C_Proliferation_down;-;-;-;-;-;-;4.96;0.695;cell cycle
+Hexachloro-1,3-butadiene; BSK_CASM3C_IL6_down;IL6;-;-;-;-;-;5.12;0.709;cytokine
+Hexachloro-1,3-butadiene; BSK_3C_Proliferation_down;-;-;-;-;-;-;11.3;1.05;cell cycle
+Hexachloro-1,3-butadiene; BSK_3C_Eselectin_down;SELE;-;-;-;-;-;11.4;1.06;cell adhesion molecules
+Hexachloro-1,3-butadiene; BSK_CASM3C_VCAM1_down;VCAM1;-;-;-;-;-;11.5;1.06;cell adhesion molecules
+Hexachloro-1,3-butadiene; BSK_3C_TissueFactor_down;F3;-;-;-;-;-;11.6;1.06;cytokine
+Hexachloro-1,3-butadiene; BSK_BE3C_tPA_down;PLAT;-;-;-;-;-;12.0;1.08;protease
+Hexachloro-1,3-butadiene; BSK_KF3CT_TIMP2_down;TIMP2;-;-;-;-;-;12.4;1.09;protease inhibitor
+Hexachloro-1,3-butadiene; BSK_BE3C_HLADR_down;HLA-DRA;-;-;-;-;-;12.5;1.10;cell adhesion molecules
+Hexachloro-1,3-butadiene; TOX21_RT_HEK293_FLO_08hr_viability;-;-;-;-;-;-;13.2;1.12;cell cycle
+Hexachloro-1,3-butadiene; BSK_3C_VCAM1_down;VCAM1;-;-;-;-;-;13.2;1.12;cell adhesion molecules
+Hexachloro-1,3-butadiene; BSK_4H_VEGFRII_down;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;14.3;1.15;kinase
+Hexachloro-1,3-butadiene; BSK_3C_HLADR_down;HLA-DRA;-;-;;;;14.4;1.16;cell adhesion molecules
+Hexachloro-1,3-butadiene; BSK_LPS_IL1a_down;IL1A;-;-;-;-;-;16.0;1.20;cytokine
+Hexachloro-1,3-butadiene; BSK_LPS_SRB_down;-;-;-;-;-;-;17.3;1.24;cell cycle
+Hexachloro-1,3-butadiene; BSK_BE3C_uPA_down;PLAU;-;-;-;-;-;17.6;1.25;protease
+Hexachloro-1,3-butadiene; BSK_LPS_CD40_down;CD40;-;-;-;-;-;19.4;1.29;cytokine
+Hexachloro-1,3-butadiene; NVS_ENZ_oCOX1;PTGS1;177;Cyclooxygenase 1 (COX1) inhibition leading to renal failure and mortality;1103;Inhibition, Cyclooxygenase 1 activity;MIE;19.5;1.29;oxidoreductase
+Hexachloro-1,3-butadiene; BSK_hDFCGF_CollagenIII_down;COL3A1;-;-;-;-;-;20.1;1.30;cell adhesion molecules
+Hexachloro-1,3-butadiene; BSK_4H_VCAM1_down;VCAM1;-;-;-;-;-;20.2;1.31;cell adhesion molecules
+Hexachloro-1,3-butadiene; BSK_hDFCGF_TIMP1_down;TIMP1;-;-;-;-;-;20.9;1.32;protease inhibitor
+Hexachloro-1,3-butadiene; BSK_BE3C_PAI1_down;SERPINE1;-;-;-;-;-;22.4;1.35;cytokine
+Hexachloro-1,3-butadiene; BSK_hDFCGF_Proliferation_down;-;-;-;-;-;-;23.7;1.37;cell cycle
+Hexachloro-1,3-butadiene; BSK_KF3CT_MCP1_down;CCL2;-;-;-;-;-;24.6;1.39;cytokine
+Hexachloro-1,3-butadiene; BSK_KF3CT_MMP9_down;MMP9;-;-;-;-;-;25.2;1.40;protease
+Hexachloro-1,3-butadiene; BSK_KF3CT_TGFb1_down;TGFB1;-;-;-;-;-;26.0;1.41;growth factor
+Lindane;CLD_CYP2B6_48hr;CYP2B6;-;-;-;-;-;9.76e-2;-1.01;cyp
+Lindane; CLD_CYP3A4_48hr;CYP3A4;-;-;-;-;-;0.588;-0.231;cyp
+Lindane; CLD_CYP2B6_6hr;CYP2B6;-;-;-;-;-;1.43;0.155;cyp
+Lindane; CLD_CYP2B6_24hr;CYP2B6;-;-;-;-;-;1.67;0.222;cyp
+Lindane; CLD_SULT2A_48hr;SULT2A1;-;-;-;-;-;1.89;0.276;transferase
+Lindane; CLD_CYP3A4_24hr;CYP3A4;-;-;-;-;-;2.29;0.359;cyp
+Lindane; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;5.68;0.754;nuclear receptor
+Lindane; ATG_NRF2_ARE_CIS_up;NFE2L2;-;;-;;;5.74;0.759;dna binding
+Lindane; ATG_PBREM_CIS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;5.86;0.768;nuclear receptor
+Lindane; ATG_VDRE_CIS_up;VDR;-;;-;;;6.52;0.814;nuclear receptor
+Lindane; NVS_TR_hDAT;SLC6A3;-;;-;;;6.68;0.825;transporter
+Lindane; TOX21_TSHR_Agonist_ratio;TSHR;-;;-;;;7.30;0.864;gpcr
+Lindane; ATG_BRE_CIS_up;SMAD1;-;;-;;;10.6;1.02;dna binding
+Lindane; ATG_Oct_MLP_CIS_up;POU2F1;-;;-;;;10.9;1.04;dna binding
+Lindane; ATG_DR5_CIS_up;RARB;-;;-;;;11.2;1.05;nuclear receptor
+Lindane; TOX21_RXR_BLA_Agonist_ratio;RXRA;-;;-;;;11.3;1.05;DNA binding
+Lindane; BSK_LPS_TNFa_up;TNF;-;;-;;;12.6;1.10;cytokine
+Lindane; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;14.2;1.15;cell adhesion molecules
+Lindane; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;15.0;1.18;nuclear receptor
+Lindane; BSK_3C_SRB_down;-;-;;-;;;15.3;1.19;cell cycle
+Lindane; ATG_CRE_CIS_up;CREB3;-;;-;;;16.1;1.21;dna binding
+Lindane; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;16.2;1.21;nuclear receptor
+Lindane; NVS_MP_rPBR;TSPO;-;;-;;;17.8;1.25;transporter
+Lindane; ATG_MRE_CIS_up;MTF1;-;;-;;;20.1;1.30;dna binding
+Lindane; ATG_RARa_TRANS_up;RARA;-;;-;;;23.2;1.37;nuclear receptor
+Lindane; ATG_E_Box_CIS_dn;USF1;-;;-;;;25.4;1.41;dna binding
+Lindane; TOX21_DT40_657;-;-;;-;;;27.2;1.44;cell cycle
+Lindane; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;28.2;1.45;cell cycle
+Lindane; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;28.2;1.45;DNA binding
+Lindane; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;29.6;1.47;cell cycle
+Lindane; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;29.8;1.47;cell cycle
+Lindane; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;30.8;1.49;cell cycle
+Lindane; OT_FXR_FXRSRC1_0480;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;31.6;1.50;nuclear receptor
+Lindane; ATG_PPRE_CIS_up;PPARA;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;31.8;1.50;nuclear receptor
+Lindane; BSK_hDFCGF_IP10_down;CXCL10;-;;-;;;32.7;1.51;cytokine
+Lindane; BSK_BE3C_IP10_down;CXCL10;-;;-;;;32.7;1.51;cytokine
+Lindane; TOX21_RT_HEK293_GLO_32hr_viability;-;-;;-;;;33.0;1.52;cell cycle
+Lindane; TOX21_DT40_100;-;-;;-;;;34.5;1.54;cell cycle
+Lindane; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;34.6;1.54;cell cycle
+Lindane; TOX21_AR_BLA_Antagonist_viability;-;-;;-;;;35.2;1.55;cell cycle
+Lindane; OT_ER_ERbERb_0480;ESR2;-;;-;;;38.4;1.58;nuclear receptor
+Lindane; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;39.7;1.60;nuclear receptor
+Lindane; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;40.2;1.60;cell cycle
+Lindane; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;40.5;1.61;cell cycle
+Lindane; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;;-;;;42.9;1.63;malformation
+Lindane; TOX21_Aromatase_Inhibition;CYP19A1;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;964;Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol;MIE;43.8;1.64;cyp
+Pentachlorobenzene;ACEA_ER_80hr;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;0.104;-0.983;nuclear receptor
+Pentachlorobenzene; BSK_CASM3C_uPAR_up;PLAUR;-;;-;;;0.352;-0.454;cytokine
+Pentachlorobenzene; BSK_3C_TissueFactor_down;F3;-;;-;;;6.11;0.786;cytokine
+Pentachlorobenzene; BSK_CASM3C_VCAM1_down;VCAM1;-;;-;;;9.64;0.984;cell adhesion molecules
+Pentachlorobenzene; BSK_BE3C_PAI1_up;SERPINE1;-;;-;;;9.91;0.996;cytokine
+Pentachlorobenzene; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;10.4;1.02;cell adhesion molecules
+Pentachlorobenzene; BSK_CASM3C_TissueFactor_down;F3;-;;-;;;11.2;1.05;cytokine
+Pentachlorobenzene; BSK_SAg_Proliferation_down;-;-;;-;;;12.8;1.11;cell cycle
+Pentachlorobenzene; BSK_LPS_IL1a_down;IL1A;-;;-;;;13.3;1.13;cytokine
+Pentachlorobenzene; BSK_4H_VCAM1_down;VCAM1;-;;-;;;13.5;1.13;cell adhesion molecules
+Pentachlorobenzene; TOX21_RT_HEPG2_FLO_08hr_viability;-;-;;-;;;16.0;1.20;cell cycle
+Pentachlorobenzene; BSK_4H_Eotaxin3_down;CCL26;-;;-;;;18.3;1.26;cytokine
+Pentachlorobenzene; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;18.8;1.28;protease inhibitor
+Pentachlorobenzene; ATG_RXRb_TRANS_up;RXRB;-;;-;;;19.1;1.28;nuclear receptor
+Pentachlorobenzene; BSK_BE3C_IL1a_down;IL1A;-;;-;;;19.3;1.29;cytokine
+Pentachlorobenzene; ATG_HIF1a_CIS_dn;HIF1A;-;;-;;;23.0;1.36;dna binding
+Pentachlorophenol;NIS_HEK293T_CTG_Cytotoxicity;-;-;;-;;;0.118;-0.928;cell cycle
+Pentachlorophenol; ATG_STAT3_CIS_dn;STAT3;-;;-;;;0.142;-0.847;dna binding
+Pentachlorophenol; Tanguay_ZF_120hpf_ActivityScore;-;-;;-;;;0.556;-0.255;malformation
+Pentachlorophenol; Tanguay_ZF_120hpf_MORT_up;-;-;;-;;;0.588;-0.231;malformation
+Pentachlorophenol; NHEERL_ZF_144hpf_TERATOSCORE_up;-;-;;-;;;0.623;-0.206;malformation
+Pentachlorophenol; TOX21_PPARg_BLA_antagonist_ratio;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;0.657;-0.183;nuclear receptor
+Pentachlorophenol; NIS_RAIU_inhibition;SLC5A5;-;;-;;;0.958;-1.84e-2;transporter
+Pentachlorophenol; BSK_BE3C_PAI1_down;SERPINE1;-;;-;;;1.12;4.99e-2;cytokine
+Pentachlorophenol; TOX21_HRE_BLA_Agonist_viability;-;-;;-;;;1.20;7.92e-2;cell cycle
+Pentachlorophenol; TOX21_PPARd_BLA_Agonist_viability;-;-;;-;;;1.73;0.239;cell cycle
+Pentachlorophenol; TOX21_MMP_ratio_down;-;-;;-;;;1.96;0.293;cell morphology
+Pentachlorophenol; BSK_hDFCGF_CollagenIII_down;COL3A1;-;;-;;;2.08;0.319;cell adhesion molecules
+Pentachlorophenol; TOX21_FXR_BLA_agonist_viability;-;-;;-;;;2.18;0.339;cell cycle
+Pentachlorophenol; TOX21_ERb_BLA_Agonist_viability;-;-;;-;;;2.38;0.377;cell cycle
+Pentachlorophenol; TOX21_p53_BLA_p3_ratio;TP53;-;;-;;;2.43;0.386;DNA binding
+Pentachlorophenol; ATG_PPRE_CIS_up;PPARA;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;2.45;0.389;nuclear receptor
+Pentachlorophenol; ATG_PPARg_TRANS_up;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;2.50;0.398;nuclear receptor
+Pentachlorophenol; TOX21_p53_BLA_p2_ratio;TP53;-;;-;;;2.54;0.405;DNA binding
+Pentachlorophenol; TOX21_AhR_LUC_Agonist;AHR;150;Aryl hydrocarbon receptor activation leading to early life stage mortality, via reduced VEGF;18;Activation, AhR;MIE;2.85;0.455;DNA binding
+Pentachlorophenol; TOX21_ERb_BLA_Antagonist_viability;-;-;;-;;;2.91;0.463;cell cycle
+Pentachlorophenol; BSK_hDFCGF_Proliferation_down;-;-;;-;;;2.95;0.469;cell cycle
+Pentachlorophenol; BSK_BE3C_tPA_down;PLAT;-;;-;;;2.97;0.473;protease
+Pentachlorophenol; TOX21_FXR_BLA_antagonist_viability;-;-;;-;;;3.05;0.484;cell cycle
+Pentachlorophenol; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;3.54;0.549;cell cycle
+Pentachlorophenol; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;3.75;0.574;protease inhibitor
+Pentachlorophenol; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;3.80;0.580;nuclear receptor
+Pentachlorophenol; TOX21_VDR_BLA_antagonist_viability;-;-;;-;;;3.83;0.583;cell cycle
+Pentachlorophenol; TOX21_p53_BLA_p4_ratio;TP53;-;;-;;;3.85;0.585;DNA binding
+Pentachlorophenol; ATG_RARg_TRANS_up;RARG;-;;-;;;4.10;0.613;nuclear receptor
+Pentachlorophenol; TOX21_p53_BLA_p1_ratio;TP53;-;;-;;;4.17;0.620;DNA binding
+Pentachlorophenol; BSK_BE3C_SRB_down;-;-;;-;;;4.58;0.661;cell cycle
+Pentachlorophenol; BSK_hDFCGF_MIG_down;CXCL9;-;;-;;;4.67;0.669;cytokine
+Pentachlorophenol; ATG_E2F_CIS_dn;E2F1;-;;-;;;4.85;0.686;dna binding
+Pentachlorophenol; BSK_BE3C_TGFb1_down;TGFB1;-;;-;;;5.28;0.722;growth factor
+Pentachlorophenol; ATG_Ahr_CIS_up;AHR;150;Aryl hydrocarbon receptor activation leading to early life stage mortality, via reduced VEGF;18;Activation, AhR;MIE;5.48;0.739;dna binding
+Pentachlorophenol; BSK_BE3C_uPA_down;PLAU;-;;-;;;5.48;0.739;protease
+Pentachlorophenol; BSK_hDFCGF_VCAM1_down;VCAM1;-;;-;;;5.77;0.761;cell adhesion molecules
+Pentachlorophenol; BSK_4H_uPAR_down;PLAUR;-;;-;;;5.84;0.766;cytokine
+Pentachlorophenol; ATG_PBREM_CIS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;5.95;0.775;nuclear receptor
+Pentachlorophenol; BSK_BE3C_IP10_down;CXCL10;-;;-;;;6.10;0.785;cytokine
+Pentachlorophenol; ATG_HNF6_CIS_up;ONECUT1;-;;-;;;6.34;0.802;dna binding
+Pentachlorophenol; BSK_hDFCGF_MCSF_down;CSF1;-;;-;;;6.45;0.810;cytokine
+Pentachlorophenol; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;6.46;0.810;DNA binding
+Pentachlorophenol; ATG_RORE_CIS_up;RORA;-;;-;;;6.53;0.815;nuclear receptor
+Pentachlorophenol; ATG_TGFb_CIS_up;TGFB1;-;;-;;;7.35;0.866;growth factor
+Pentachlorophenol; BSK_hDFCGF_SRB_down;-;-;;-;;;7.38;0.868;cell cycle
+Pentachlorophenol; BSK_CASM3C_MCP1_down;CCL2;-;;-;;;7.56;0.879;cytokine
+Pentachlorophenol; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;7.58;0.880;nuclear receptor
+Pentachlorophenol; ATG_PPARa_TRANS_up;PPARA;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;7.61;0.881;nuclear receptor
+Pentachlorophenol; BSK_KF3CT_SRB_down;-;-;;-;;;7.87;0.896;cell cycle
+Pentachlorophenol; ATG_NF_kB_CIS_up;NFKB1;-;;-;;;8.07;0.907;dna binding
+Pentachlorophenol; BSK_KF3CT_MMP9_down;MMP9;-;;-;;;8.15;0.911;protease
+Pentachlorophenol; BSK_LPS_MCSF_down;CSF1;-;;-;;;8.28;0.918;cytokine
+Pentachlorophenol; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;;-;;;8.43;0.926;nuclear receptor
+Pentachlorophenol; ATG_VDRE_CIS_up;VDR;-;;-;;;8.45;0.927;nuclear receptor
+Pentachlorophenol; BSK_SAg_PBMCCytotoxicity_up;-;-;;-;;;8.52;0.930;cell cycle
+Pentachlorophenol; TOX21_TR_LUC_GH3_Antagonist;THRB;-;;-;;;8.54;0.932;nuclear receptor
+Pentachlorophenol; ATG_VDR_TRANS_up;VDR;-;;-;;;8.61;0.935;nuclear receptor
+Pentachlorophenol; BSK_BE3C_uPAR_down;PLAUR;-;;-;;;8.73;0.941;cytokine
+Pentachlorophenol; TOX21_p53_BLA_p5_ratio;TP53;-;;-;;;8.74;0.942;DNA binding
+Pentachlorophenol; ATG_CRE_CIS_up;CREB3;-;;-;;;8.88;0.948;dna binding
+Pentachlorophenol; BSK_SAg_SRB_down;-;-;;-;;;9.03;0.956;cell cycle
+Pentachlorophenol; BSK_3C_HLADR_down;HLA-DRA;-;;-;;;9.24;0.966;cell adhesion molecules
+Pentachlorophenol; BSK_4H_Pselectin_down;SELP;-;;-;;;9.40;0.973;cell adhesion molecules
+Pentachlorophenol; ATG_NRF2_ARE_CIS_up;NFE2L2;-;;-;;;9.51;0.978;dna binding
+Pentachlorophenol; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;9.55;0.980;cell adhesion molecules
+Pentachlorophenol; BSK_LPS_SRB_down;-;-;;-;;;9.71;0.987;cell cycle
+Pentachlorophenol; ATG_TCF_b_cat_CIS_dn;TCF7;-;;-;;;9.75;0.989;dna binding
+Pentachlorophenol; ATG_EGR_CIS_up;EGR1;-;;-;;;9.97;0.999;dna binding
+Pentachlorophenol; ATG_NRF1_CIS_dn;NRF1;-;;-;;;9.98;0.999;dna binding
+Pentachlorophenol; TOX21_ARE_BLA_agonist_viability;-;-;;-;;;10.0;1.00;cell cycle
+Pentachlorophenol; ATG_Oct_MLP_CIS_up;POU2F1;-;;-;;;10.1;1.01;dna binding
+Pentachlorophenol; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;10.1;1.01;nuclear receptor
+Pentachlorophenol; BSK_3C_SRB_down;-;-;;-;;;10.3;1.01;cell cycle
+Pentachlorophenol; BSK_LPS_CD40_down;CD40;-;;-;;;10.4;1.02;cytokine
+Pentachlorophenol; BSK_3C_Proliferation_down;-;-;;-;;;10.4;1.02;cell cycle
+Pentachlorophenol; BSK_LPS_Eselectin_down;SELE;-;;-;;;10.6;1.02;cell adhesion molecules
+Pentachlorophenol; BSK_3C_VCAM1_down;VCAM1;-;;-;;;10.6;1.03;cell adhesion molecules
+Pentachlorophenol; BSK_hDFCGF_IP10_down;CXCL10;-;;-;;;10.7;1.03;cytokine
+Pentachlorophenol; BSK_SAg_IL8_down;CXCL8;-;;-;;;10.8;1.03;cytokine
+Pentachlorophenol; BSK_4H_SRB_down;-;-;;-;;;11.0;1.04;cell cycle
+Pentachlorophenol; BSK_SAg_MCP1_down;CCL2;-;;-;;;11.0;1.04;cytokine
+Pentachlorophenol; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;11.3;1.05;nuclear receptor
+Pentachlorophenol; BSK_4H_VCAM1_down;VCAM1;-;;-;;;11.4;1.06;cell adhesion molecules
+Pentachlorophenol; BSK_LPS_MCP1_down;CCL2;-;;-;;;11.7;1.07;cytokine
+Pentachlorophenol; BSK_hDFCGF_PAI1_down;SERPINE1;-;;-;;;12.0;1.08;cytokine
+Pentachlorophenol; ATG_Pax6_CIS_up;PAX6;-;;-;;;12.0;1.08;dna binding
+Pentachlorophenol; BSK_SAg_CD69_down;CD69;-;;-;;;12.2;1.09;cytokine
+Pentachlorophenol; ACEA_AR_agonist_AUC_viability;-;-;;-;;;12.3;1.09;cell cycle
+Pentachlorophenol; NCCT_TPO_AUR_dn;TPO;175;Thyroperoxidase inhibition leading to altered amphibian metamorphosis;279;Thyroperoxidase, Inhibition;MIE;12.4;1.09;oxidoreductase
+Pentachlorophenol; BSK_SAg_CD40_down;CD40;-;;-;;;12.6;1.10;cytokine
+Pentachlorophenol; BSK_KF3CT_ICAM1_down;ICAM1;-;;-;;;12.7;1.10;cell adhesion molecules
+Pentachlorophenol; ATG_C_EBP_CIS_up;CEBPB;-;;-;;;12.8;1.11;dna binding
+Pentachlorophenol; BSK_BE3C_MIG_down;CXCL9;-;;-;;;12.9;1.11;cytokine
+Pentachlorophenol; BSK_3C_uPAR_down;PLAUR;-;;-;;;13.0;1.11;cytokine
+Pentachlorophenol; TOX21_MMP_viability;-;-;;-;;;13.0;1.11;cell cycle
+Pentachlorophenol; BSK_BE3C_IL1a_down;IL1A;-;;-;;;13.0;1.11;cytokine
+Pentachlorophenol; BSK_LPS_VCAM1_down;VCAM1;-;;-;;;13.0;1.11;cell adhesion molecules
+Pentachlorophenol; ATG_DR5_CIS_up;RARB;-;;-;;;13.2;1.12;nuclear receptor
+Pentachlorophenol; BSK_3C_Eselectin_down;SELE;-;;-;;;13.2;1.12;cell adhesion molecules
+Pentachlorophenol;BSK_KF3CT_IP10_down;CXCL10;-;;-;;;13.2;1.12;cytokine
+Pentachlorophenol; BSK_SAg_Proliferation_down;-;-;;-;;;13.8;1.14;cell cycle
+Pentachlorophenol; BSK_4H_Eotaxin3_down;CCL26;-;;-;;;14.7;1.17;cytokine
+Pentachlorophenol; BSK_SAg_CD38_down;CD38;-;;-;;;14.8;1.17;cytokine
+Pentachlorophenol; BSK_3C_MCP1_down;CCL2;-;;-;;;15.2;1.18;cytokine
+Pentachlorophenol; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;15.3;1.18;nuclear receptor
+Pentachlorophenol; TOX21_ERa_LUC_BG1_Antagonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;15.8;1.20;nuclear receptor
+Pentachlorophenol; ATG_Xbp1_CIS_up;XBP1;-;;-;;;16.0;1.21;dna binding
+Pentachlorophenol; ATG_AP_1_CIS_up;FOS;-;;-;;;16.1;1.21;dna binding
+Pentachlorophenol; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;;-;;;16.4;1.21;DNA binding
+Pentachlorophenol; ATG_BRE_CIS_up;SMAD1;-;;-;;;17.1;1.23;dna binding
+Perfluorooctanesulfonic acid;NVS_ADME_hCYP2C9;CYP2C9;-;;-;;;2.17e-2;-1.66;cyp
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPN1;PTPN1;-;;-;;;5.33e-2;-1.27;phosphatase
+Perfluorooctanesulfonic acid; NVS_ADME_rCYP2C11;CYP2C11;-;;-;;;9.27e-2;-1.03;cyp
+Perfluorooctanesulfonic acid; NIS_HEK293T_CTG_Cytotoxicity;-;-;;-;;;0.100;-0.999;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hCSF1R_Activator;CSF1R;-;;-;;;0.406;-0.392;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hBACE;BACE1;-;;-;;;0.471;-0.327;protease
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_MORT_up;-;-;;-;;;0.547;-0.262;malformation
+Perfluorooctanesulfonic acid; NVS_ADME_hCYP2C18;CYP2C18;-;;-;;;0.822;-8.49e-2;cyp
+Perfluorooctanesulfonic acid; NVS_ADME_hCYP4F12;CYP4F12;-;;-;;;1.53;0.184;cyp
+Perfluorooctanesulfonic acid; NVS_ENZ_hMMP7;MMP7;-;;-;;;1.73;0.237;protease
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_TR_up;-;-;;-;;;1.92;0.283;malformation
+Perfluorooctanesulfonic acid; NVS_NR_hGR;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;2.27;0.356;nuclear receptor
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_AXIS_up;-;-;;-;;;2.39;0.378;malformation
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_ActivityScore;-;-;;-;;;3.45;0.538;malformation
+Perfluorooctanesulfonic acid; NVS_ADME_hCYP19A1;CYP19A1;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;964;Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol;MIE;4.14;0.617;cyp
+Perfluorooctanesulfonic acid; NVS_NR_rAR;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;4.27;0.631;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_ADME_hCYP2C8;CYP2C8;-;;-;;;4.70;0.672;cyp
+Perfluorooctanesulfonic acid; NVS_ADME_hCYP2C19;CYP2C19;-;;-;;;4.91;0.691;cyp
+Perfluorooctanesulfonic acid; NVS_GPCR_hAdoRA2a;ADORA2A;-;;-;;;5.17;0.713;gpcr
+Perfluorooctanesulfonic acid; NVS_ENZ_hPPP2CA;PPP2CA;-;;-;;;5.39;0.732;phosphatase
+Perfluorooctanesulfonic acid; APR_HepG2_p53Act_72h_up;TP53;-;;-;;;5.43;0.735;dna binding
+Perfluorooctanesulfonic acid; NVS_ENZ_hAMPKa1;PRKAA1;-;;-;;;5.47;0.738;kinase
+Perfluorooctanesulfonic acid; ATG_NRF2_ARE_CIS_up;NFE2L2;-;;-;;;5.82;0.765;dna binding
+Perfluorooctanesulfonic acid; BSK_LPS_IL8_up;CXCL8;-;;-;;;5.85;0.767;cytokine
+Perfluorooctanesulfonic acid; NVS_NR_hPPARg;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;5.94;0.774;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_GPCR_h5HT7;HTR7;-;;-;;;7.26;0.861;gpcr
+Perfluorooctanesulfonic acid; NVS_NR_cAR;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;7.31;0.864;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_ENZ_hPI3Ka;PIK3CA;-;;-;;;7.42;0.871;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hSIRT2;SIRT2;-;;-;;;7.58;0.880;hydrolase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTEN;PTEN;-;;-;;;7.66;0.885;phosphatase
+Perfluorooctanesulfonic acid; APR_HepG2_OxidativeStress_72h_up;-;-;;-;;;7.98;0.902;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hMMP13;MMP13;-;;-;;;8.08;0.907;protease
+Perfluorooctanesulfonic acid; APR_HepG2_NuclearSize_72h_dn;-;-;;-;;;8.10;0.908;cell morphology
+Perfluorooctanesulfonic acid; APR_HepG2_MitoticArrest_72h_up;-;-;;-;;;8.10;0.909;cell cycle
+Perfluorooctanesulfonic acid; BSK_hDFCGF_Proliferation_down;-;-;;-;;;8.17;0.912;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hVEGFR3;FLT4;-;;-;;;8.36;0.922;kinase
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_YSE_up;-;-;;-;;;8.65;0.937;malformation
+Perfluorooctanesulfonic acid; NVS_ENZ_hTie2;TEK;-;;-;;;8.69;0.939;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hVEGFR1;FLT1;-;;-;;;8.92;0.950;kinase
+Perfluorooctanesulfonic acid; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;9.42;0.974;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_ENZ_hPDE4A1;PDE4A;-;;-;;;9.62;0.983;esterase
+Perfluorooctanesulfonic acid; NVS_ENZ_hHDAC3;HDAC3;-;;-;;;9.92;0.996;hydrolase
+Perfluorooctanesulfonic acid; BSK_3C_Vis_down;-;-;;-;;;10.4;1.02;cell morphology
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPN13;PTPN13;-;;-;;;10.5;1.02;phosphatase
+Perfluorooctanesulfonic acid; BSK_BE3C_HLADR_down;HLA-DRA;-;;-;;;10.6;1.03;cell adhesion molecules
+Perfluorooctanesulfonic acid; BSK_BE3C_TGFb1_down;TGFB1;-;;-;;;10.9;1.04;growth factor
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPRF;PTPRF;-;;-;;;11.1;1.05;phosphatase
+Perfluorooctanesulfonic acid; NIS_RAIU_inhibition;SLC5A5;-;;-;;;11.2;1.05;transporter
+Perfluorooctanesulfonic acid; NVS_GPCR_hPY2;P2RY1;-;;-;;;11.8;1.07;gpcr
+Perfluorooctanesulfonic acid; NVS_ENZ_oCOX2;PTGS2;103;Cyclooxygenase inhibition leading to reproductive dysfunction via interference with spindle assembly checkpoint;79;Inhibition, Cyclooxygenase activity;MIE;11.9;1.08;oxidoreductase
+Perfluorooctanesulfonic acid; BSK_SAg_CD40_down;CD40;-;;-;;;12.0;1.08;cytokine
+Perfluorooctanesulfonic acid; BSK_BE3C_tPA_down;PLAT;-;;-;;;12.2;1.09;protease
+Perfluorooctanesulfonic acid; BSK_CASM3C_VCAM1_down;VCAM1;-;;-;;;12.4;1.09;cell adhesion molecules
+Perfluorooctanesulfonic acid; BSK_KF3CT_MMP9_down;MMP9;-;;-;;;12.4;1.09;protease
+Perfluorooctanesulfonic acid; NVS_ENZ_hInsR;INSR;-;;-;;;12.5;1.10;kinase
+Perfluorooctanesulfonic acid; NVS_GPCR_hOpiate_D1;OPRD1;-;;-;;;12.6;1.10;gpcr
+Perfluorooctanesulfonic acid; NVS_NR_hAR;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;12.6;1.10;nuclear receptor
+Perfluorooctanesulfonic acid; BSK_3C_uPAR_down;PLAUR;-;;-;;;13.0;1.11;cytokine
+Perfluorooctanesulfonic acid; NVS_ENZ_hZAP70;ZAP70;-;;-;;;13.5;1.13;kinase
+Perfluorooctanesulfonic acid; BSK_3C_SRB_down;-;-;;-;;;13.6;1.13;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hCASP5;CASP5;-;;-;;;13.6;1.13;protease
+Perfluorooctanesulfonic acid; BSK_BE3C_PAI1_down;SERPINE1;-;;-;;;14.4;1.16;cytokine
+Perfluorooctanesulfonic acid; BSK_BE3C_IP10_down;CXCL10;-;;-;;;14.5;1.16;cytokine
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPRC;PTPRC;-;;-;;;16.0;1.20;phosphatase
+Perfluorooctanesulfonic acid; NVS_GPCR_hTXA2;TBXA2R;-;;-;;;16.1;1.21;gpcr
+Perfluorooctanesulfonic acid; NVS_ENZ_hPPP1CA;PPP1CA;-;;-;;;16.1;1.21;phosphatase
+Perfluorooctanesulfonic acid; NVS_GPCR_h5HT5A;HTR5A;-;;-;;;16.7;1.22;gpcr
+Perfluorooctanesulfonic acid; NVS_GPCR_hAdra2C;ADRA2C;-;;-;;;16.8;1.22;gpcr
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_TRUN_up;-;-;;-;;;16.8;1.22;malformation
+Perfluorooctanesulfonic acid; APR_HepG2_MitoMass_72h_dn;-;-;;-;;;17.5;1.24;cell morphology
+Perfluorooctanesulfonic acid; NVS_NR_hCAR_Antagonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;17.6;1.25;nuclear receptor
+Perfluorooctanesulfonic acid; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;18.1;1.26;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_ENZ_hMMP9;MMP9;-;;-;;;18.4;1.27;protease
+Perfluorooctanesulfonic acid; NVS_ENZ_hMMP3;MMP3;-;;-;;;18.8;1.27;protease
+Perfluorooctanesulfonic acid; NVS_ENZ_hEGFR;EGFR;-;;-;;;19.1;1.28;kinase
+Perfluorooctanesulfonic acid; NVS_GPCR_hDRD4.4;DRD4;-;;-;;;19.3;1.29;gpcr
+Perfluorooctanesulfonic acid; BSK_hDFCGF_VCAM1_down;VCAM1;-;;-;;;19.3;1.29;cell adhesion molecules
+Perfluorooctanesulfonic acid; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;19.7;1.30;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_ENZ_hCDK6;CDK6;-;;-;;;20.0;1.30;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hDYRK1a;DYRK1A;-;;-;;;20.7;1.32;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hEphA2;EPHA2;-;;-;;;20.8;1.32;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hFGFR1;FGFR1;-;;-;;;20.8;1.32;kinase
+Perfluorooctanesulfonic acid; BSK_KF3CT_IP10_down;CXCL10;-;;-;;;21.6;1.33;cytokine
+Perfluorooctanesulfonic acid; NVS_GPCR_gLTB4;LTB4R;-;;-;;;21.8;1.34;gpcr
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPN12;PTPN12;-;;-;;;21.8;1.34;phosphatase
+Perfluorooctanesulfonic acid; NVS_ENZ_hBTK;BTK;-;;-;;;21.9;1.34;kinase
+Perfluorooctanesulfonic acid; NVS_NR_bPR;PGR;-;;-;;;22.2;1.35;nuclear receptor
+Perfluorooctanesulfonic acid; BSK_KF3CT_IL1a_down;IL1A;-;;-;;;22.5;1.35;cytokine
+Perfluorooctanesulfonic acid; NVS_NR_hPR;PGR;-;;-;;;22.6;1.35;nuclear receptor
+Perfluorooctanesulfonic acid; BSK_hDFCGF_SRB_down;-;-;;-;;;22.9;1.36;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hCSF1R;CSF1R;-;;-;;;23.0;1.36;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPN6;PTPN6;-;;-;;;23.3;1.37;phosphatase
+Perfluorooctanesulfonic acid; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;23.8;1.38;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_GPCR_h5HT6;HTR6;-;;-;;;24.0;1.38;gpcr
+Perfluorooctanesulfonic acid; NVS_ENZ_hACP1;ACP1;-;;-;;;24.1;1.38;phosphatase
+Perfluorooctanesulfonic acid; NVS_ENZ_hCK1a;CSNK1A1;-;;-;;;24.2;1.38;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPN11;PTPN11;-;;-;;;24.3;1.38;phosphatase
+Perfluorooctanesulfonic acid; NVS_GPCR_hLTB4_BLT1;LTB4R;-;;-;;;24.3;1.39;gpcr
+Perfluorooctanesulfonic acid; NVS_ENZ_hRAF1;RAF1;-;;-;;;24.4;1.39;kinase
+Perfluorooctanesulfonic acid; BSK_KF3CT_TGFb1_down;TGFB1;-;;-;;;24.5;1.39;growth factor
+Perfluorooctanesulfonic acid;BSK_hDFCGF_IP10_down;CXCL10;-;;-;;;24.8;1.39;cytokine
+Perfluorooctanesulfonic acid; TOX21_ARE_BLA_agonist_ratio;NFE2L2;-;;-;;;25.2;1.40;DNA binding
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPRB;PTPRB;-;;-;;;25.4;1.40;phosphatase
+Perfluorooctanesulfonic acid; TOX21_ERb_BLA_Agonist_viability;-;-;;-;;;25.4;1.41;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hGSK3b;GSK3B;-;;-;;;25.5;1.41;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPDE5;PDE5A;-;;-;;;25.6;1.41;esterase
+Perfluorooctanesulfonic acid; NVS_ENZ_hMet;MET;-;;-;;;25.7;1.41;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hDUSP3;DUSP3;-;;-;;;26.0;1.41;phosphatase
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_SNOU_up;-;-;;-;;;26.0;1.42;malformation
+Perfluorooctanesulfonic acid; NVS_ENZ_hAKT2;AKT2;-;;-;;;26.2;1.42;kinase
+Perfluorooctanesulfonic acid; BSK_BE3C_IL1a_down;IL1A;-;;-;;;26.3;1.42;cytokine
+Perfluorooctanesulfonic acid; NVS_ENZ_hCK1D;CSNK1D;-;;-;;;26.4;1.42;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPKA;PRKACA;-;;-;;;26.4;1.42;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPAK4;PAK4;-;;-;;;26.5;1.42;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPN2;PTPN2;-;;-;;;26.6;1.42;phosphatase
+Perfluorooctanesulfonic acid; ATG_PPARg_TRANS_up;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;26.7;1.43;nuclear receptor
+Perfluorooctanesulfonic acid; NVS_ENZ_hAurA;AURKA;-;;-;;;26.8;1.43;kinase
+Perfluorooctanesulfonic acid; NVS_GPCR_gLTD4;CYSLTR1;-;;-;;;27.2;1.43;gpcr
+Perfluorooctanesulfonic acid; TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;27.7;1.44;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hLynA_Activator;LYN;-;;-;;;27.8;1.44;kinase
+Perfluorooctanesulfonic acid; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;27.9;1.45;cell cycle
+Perfluorooctanesulfonic acid; NVS_GPCR_hNPY2;NPY2R;-;;-;;;28.0;1.45;gpcr
+Perfluorooctanesulfonic acid; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;28.1;1.45;cell cycle
+Perfluorooctanesulfonic acid; NVS_NR_hRAR_Antagonist;RARA;-;;-;;;28.4;1.45;nuclear receptor
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_PE_up;-;-;;-;;;28.7;1.46;malformation
+Perfluorooctanesulfonic acid; Tanguay_ZF_120hpf_JAW_up;-;-;;-;;;29.2;1.47;malformation
+Perfluorooctanesulfonic acid; NVS_ENZ_hMsk1;RPS6KA5;-;;-;;;29.7;1.47;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hSGK1;SGK1;-;;-;;;29.8;1.47;kinase
+Perfluorooctanesulfonic acid; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;29.8;1.47;cell cycle
+Perfluorooctanesulfonic acid; BSK_BE3C_SRB_down;-;-;;-;;;29.8;1.47;cell cycle
+Perfluorooctanesulfonic acid; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;30.1;1.48;cell cycle
+Perfluorooctanesulfonic acid; TOX21_FXR_BLA_agonist_viability;-;-;;-;;;30.1;1.48;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hTrkA;NTRK1;-;;-;;;30.2;1.48;kinase
+Perfluorooctanesulfonic acid; TOX21_ERb_BLA_Antagonist_viability;-;-;;-;;;30.3;1.48;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hMAPK1;MAPK1;-;;-;;;30.4;1.48;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hIKKa;CHUK;-;;-;;;30.4;1.48;kinase
+Perfluorooctanesulfonic acid; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;30.7;1.49;cell cycle
+Perfluorooctanesulfonic acid; BSK_hDFCGF_CollagenIII_down;COL3A1;-;;-;;;30.7;1.49;cell adhesion molecules
+Perfluorooctanesulfonic acid; NVS_ENZ_hPTPRM;PTPRM;-;;-;;;31.0;1.49;phosphatase
+Perfluorooctanesulfonic acid; NVS_GPCR_hAdrb1;ADRB1;-;;-;;;31.2;1.49;gpcr
+Perfluorooctanesulfonic acid; TOX21_FXR_BLA_antagonist_viability;-;-;;-;;;31.4;1.50;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hMAPK3;MAPK3;-;;-;;;31.5;1.50;kinase
+Perfluorooctanesulfonic acid; NVS_ENZ_hVEGFR2;KDR;43;Disruption of VEGFR Signaling Leading to Developmental Defects;305;Inhibition, VegfR2;MIE;32.2;1.51;kinase
+Perfluorooctanesulfonic acid; BSK_KF3CT_TIMP2_down;TIMP2;-;;-;;;32.3;1.51;protease inhibitor
+Perfluorooctanesulfonic acid; NVS_ENZ_hMARK1;MARK1;-;;-;;;32.5;1.51;kinase
+Perfluorooctanesulfonic acid; TOX21_MMP_ratio_up;-;-;;-;;;33.2;1.52;cell morphology
+Perfluorooctanesulfonic acid; NVS_ENZ_hFGFR3;FGFR3;-;;-;;;33.3;1.52;kinase
+Perfluorooctanesulfonic acid; ATG_AP_1_CIS_up;FOS;-;;-;;;33.7;1.53;dna binding
+Perfluorooctanesulfonic acid; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;33.7;1.53;cell cycle
+Perfluorooctanesulfonic acid; NVS_ENZ_hROCK1;ROCK1;-;;-;;;33.9;1.53;kinase
+Perfluorooctanesulfonic acid; ATG_PPRE_CIS_up;PPARA;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;33.9;1.53;nuclear receptor
+Perfluorooctanesulfonic acid; ATG_Sp1_CIS_up;SP1;-;;-;;;34.0;1.53;dna binding
+Perfluorooctanesulfonic acid; BSK_BE3C_uPA_down;PLAU;-;;-;;;34.1;1.53;protease
+Perfluorooctanesulfonic acid; CLD_CYP2B6_24hr;CYP2B6;-;;-;;;34.5;1.54;cyp
+Perfluorooctanesulfonic acid; NVS_ENZ_hMAPKAPK5;MAPKAPK5;-;;-;;;36.4;1.56;kinase
+Perfluorooctanesulfonic acid; BSK_hDFCGF_MCSF_down;CSF1;-;;-;;;36.6;1.56;cytokine
+Chlorinated paraffins:C12, 60% chlorine;TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;1.65e-3;-2.78;cell cycle
+Chlorinated paraffins:C12, 60% chlorine; TOX21_RT_HEK293_FLO_24hr_viability;-;-;;-;;;1.65e-3;-2.78;cell cycle
+Chlorinated paraffins:C12, 60% chlorine; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;1.65e-3;-2.78;cell cycle
+Chlorinated paraffins:C12, 60% chlorine; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;0.855;-6.80e-2;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_PXR_TRANS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;1.50;0.177;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_DR5_CIS_up;RARB;-;;-;;;3.09;0.491;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_PBREM_CIS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;3.16;0.500;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_VDRE_CIS_up;VDR;-;;-;;;4.22;0.625;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_FXR_TRANS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;8.63;0.936;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;9.12;0.960;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_DR4_LXR_CIS_up;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;10.1;1.01;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_IR1_CIS_up;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;11.1;1.05;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_RXRb_TRANS_up;RXRB;-;;-;;;14.4;1.16;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; ATG_PPARg_TRANS_up;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;20.4;1.31;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;25.4;1.41;cell cycle
+Chlorinated paraffins:C12, 60% chlorine; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;26.5;1.42;cell cycle
+Chlorinated paraffins:C12, 60% chlorine; TOX21_FXR_BLA_antagonist_ratio;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;31.7;1.50;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;32.9;1.52;nuclear receptor
+Chlorinated paraffins:C12, 60% chlorine; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;33.2;1.52;cell cycle
+Chlorinated paraffins:C12, 60% chlorine; TOX21_MMP_ratio_down;-;-;;-;;;40.6;1.61;cell morphology
+Endosulfan I;ATG_RARa_TRANS_up;RARA;-;;-;;;1.38;0.141;nuclear receptor
+Endosulfan I; ATG_DR5_CIS_up;RARB;-;;-;;;1.83;0.262;nuclear receptor
+Endosulfan I; ATG_ERE_CIS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;2.45;0.390;nuclear receptor
+Endosulfan I; ATG_PXRE_CIS_up;NR1I2;60;NR1I2 (Pregnane X Receptor, PXR) activation leading to hepatic steatosis;245;Activation, PXR/SXR;MIE;2.52;0.401;nuclear receptor
+Endosulfan I; ATG_ERa_TRANS_up;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;2.97;0.472;nuclear receptor
+Endosulfan I; ACEA_AR_antagonist_AUC_viability;-;-;;-;;;3.28;0.516;cell cycle
+Endosulfan I; OT_ER_ERbERb_1440;ESR2;-;;-;;;5.12;0.709;nuclear receptor
+Endosulfan I; ATG_PXR_TRANS_up;NR1I2;60;Estrogen receptor activation leading to breast cancer;245;Activation, PXR/SXR;MIE;5.43;0.735;nuclear receptor
+Endosulfan I; ATG_VDRE_CIS_up;VDR;-;;-;;;5.72;0.757;nuclear receptor
+Endosulfan I; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;5.90;0.771;nuclear receptor
+Endosulfan I; CEETOX_H295R_PROG_dn;PGR;-;;-;;;7.69;0.886;steroid hormone
+Endosulfan I; ACEA_AR_antagonist_80hr;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;7.76;0.890;nuclear receptor
+Endosulfan I; OT_ERa_EREGFP_0480;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;;11.1;1.04;nuclear receptor
+Endosulfan I; OT_ER_ERaERb_1440;ESR2;-;;-;;;11.5;1.06;nuclear receptor
+Endosulfan I; TOX21_TSHR_Agonist_ratio;TSHR;-;;-;;;11.6;1.06;gpcr
+Endosulfan I; CEETOX_H295R_OHPREG_dn;PGR;-;;-;;;13.8;1.14;steroid hormone
+Endosulfan I; CEETOX_H295R_DOC_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;14.2;1.15;steroid hormone
+Endosulfan I; OT_ER_ERbERb_0480;ESR2;-;;-;;;15.6;1.19;nuclear receptor
+Endosulfan I; ATG_DR4_LXR_CIS_dn;NR1H3;58;NR1I3 (CAR) suppression leading to hepatic steatosis;167;Activation, LXR;MIE;17.0;1.23;nuclear receptor
+Endosulfan I; NVS_NR_hPPARg;PPARG;163;PPARgamma activation leading to sarcomas in rats, mice, and hamsters;1028;Activation of specific nuclear receptors, PPAR-gamma activation;MIE;18.1;1.26;nuclear receptor
+Endosulfan I; ATG_PBREM_CIS_up;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;18.7;1.27;nuclear receptor
+Endosulfan I; ATG_IR1_CIS_dn;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;20.3;1.31;nuclear receptor
+Endosulfan I; TOX21_AP1_BLA_Agonist_ratio;FOS|JUN;-;;-;;;23.9;1.38;DNA binding
+Endosulfan I; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;26.8;1.43;nuclear receptor
+Endosulfan I; ATG_STAT3_CIS_up;STAT3;-;;-;;;30.0;1.48;dna binding
+Endosulfan I; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;31.7;1.50;cell cycle
+Endosulfan I; TOX21_RT_HEK293_GLO_40hr_viability;-;-;;-;;;31.9;1.50;cell cycle
+Endosulfan I; TOX21_RT_HEK293_GLO_32hr_viability;-;-;;-;;;32.2;1.51;cell cycle
+Endosulfan I; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;33.3;1.52;cell cycle
+Endosulfan I; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;33.8;1.53;cell cycle
+Endosulfan I; TOX21_HRE_BLA_Agonist_viability;-;-;;-;;;36.6;1.56;cell cycle
+Endosulfan I; TOX21_DT40;-;-;;-;;;36.6;1.56;cell cycle
+Endosulfan I; TOX21_DT40_100;-;-;;-;;;38.3;1.58;cell cycle
+Endosulfan I; OT_FXR_FXRSRC1_1440;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;39.6;1.60;nuclear receptor
+Endosulfan I; TOX21_RT_HEPG2_GLO_16hr_ctrl_viability;-;-;;-;;;39.7;1.60;cell cycle
+Endosulfan I; TOX21_ERa_BLA_Antagonist_ratio;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;41.4;1.62;nuclear receptor
+Endosulfan I; TOX21_AR_BLA_Antagonist_ratio;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;41.7;1.62;nuclear receptor
+Endosulfan I; TOX21_MMP_ratio_down;-;-;;-;;;43.8;1.64;cell morphology
+Endosulfan I; TOX21_RT_HEPG2_FLO_16hr_ctrl_viability;-;-;;-;;;44.2;1.65;cell cycle
+Endosulfan I; TOX21_SSH_3T3_GLI3_Antagonist;GLI3;-;;-;;;46.3;1.67;DNA binding
+Endosulfan I; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;46.7;1.67;cell cycle
+Endosulfan I; TOX21_AR_LUC_MDAKB2_Antagonist;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;46.9;1.67;nuclear receptor
+Endosulfan I; CEETOX_H295R_TESTO_dn;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;47.1;1.67;steroid hormone
+Endosulfan I; TOX21_RT_HEPG2_GLO_24hr_ctrl_viability;-;-;;-;;;47.2;1.67;cell cycle
+Endosulfan I; TOX21_p53_BLA_p2_viability;-;-;;-;;;47.3;1.67;cell cycle
+Endosulfan I; TOX21_ESRE_BLA_viability;-;-;;-;;;47.6;1.68;cell cycle
+Endosulfan I; CEETOX_H295R_OHPROG_dn;PGR;-;;-;;;48.1;1.68;steroid hormone
+Endosulfan I; TOX21_RT_HEK293_FLO_16hr_viability;-;-;;-;;;50.4;1.70;cell cycle
+Endosulfan I; CEETOX_H295R_11DCORT_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;50.5;1.70;steroid hormone
+Endosulfan I; CEETOX_H295R_CORTISOL_dn;NR3C1;66;Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis;654;Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists;MIE;50.5;1.70;steroid hormone
+Endosulfan I; TOX21_RT_HEPG2_GLO_08hr_ctrl_viability;-;-;;-;;;50.9;1.71;cell cycle
+Endosulfan I; TOX21_RT_HEPG2_FLO_32hr_ctrl_viability;-;-;;-;;;50.9;1.71;cell cycle
+Endosulfan I; TOX21_AR_LUC_MDAKB2_Antagonist_Specificity_viability;-;-;;-;;;51.4;1.71;cell cycle
+Endosulfan I; TOX21_DT40_657;-;-;;-;;;51.7;1.71;cell cycle
+Endosulfan I; OT_AR_ARSRC1_0960;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;51.8;1.71;nuclear receptor
+Endosulfan I; TOX21_RAR_LUC_Antagonist;RARA;-;;-;;;51.8;1.71;nuclear receptor
+Endosulfan I; TOX21_ERb_BLA_Antagonist_ratio;ESR2;-;;-;;;57.2;1.76;nuclear receptor
+Endosulfan I; TOX21_PGC_ERR_Antagonist;ESRRA;-;;-;;;57.3;1.76;nuclear receptor
+Endosulfan I; TOX21_RAR_LUC_Agonist_viability;-;-;;-;;;59.4;1.77;cell cycle
+Endosulfan I; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;59.7;1.78;cell cycle
+Endosulfan I; TOX21_RT_HEK293_FLO_08hr_viability;-;-;;-;;;60.1;1.78;cell cycle
+Endosulfan I; TOX21_Aromatase_Inhibition;CYP19A1;153;Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats;964;Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol;MIE;60.6;1.78;cyp
+2,2',4,4'-Tetrabromodiphenyl ether;TOX21_AR_LUC_MDAKB2_Antagonist;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;9.70;0.987;nuclear receptor
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_ERa_LUC_BG1_Agonist;ESR1;200;Estrogen receptor activation leading to breast cancer;1181;Activation, Estrogen receptor;MIE;18.1;1.26;nuclear receptor
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_MMP_ratio_down;-;-;;-;;;23.8;1.38;cell morphology
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;28.5;1.45;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;31.2;1.49;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_PPARd_BLA_Agonist_viability;-;-;;-;;;31.6;1.50;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;32.2;1.51;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_VDR_BLA_Agonist_viability;-;-;;-;;;33.0;1.52;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_FXR_BLA_antagonist_ratio;NR1H4;61;NFE2L2/FXR activation leading to hepatic steatosis;479;Activation, NR1H4;MIE;33.8;1.53;nuclear receptor
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;33.9;1.53;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_CAR_Agonist;NR1I3;107;Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat;715;Activation, Constitutive androstane receptor;MIE;34.3;1.54;nuclear receptor
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_RT_HEK293_GLO_32hr_viability;-;-;;-;;;34.6;1.54;cell cycle
+2,2',4,4'-Tetrabromodiphenyl ether; TOX21_RT_HEK293_GLO_40hr_viability;-;-;;-;;;35.9;1.55;cell cycle
+2,2',4,4',5-Pentabromodiphenyl ether;TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;7.74;0.889;cell cycle
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_RT_HEK293_FLO_32hr_viability;-;-;;-;;;10.2;1.01;cell cycle
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_MMP_ratio_down;-;-;;-;;;12.8;1.11;cell morphology
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_RXR_BLA_Agonist_viability;-;-;;-;;;21.5;1.33;cell cycle
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_AR_LUC_MDAKB2_Antagonist;AR;187;Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage;1134;Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone;MIE;24.4;1.39;nuclear receptor
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_RT_HEK293_GLO_08hr_viability;-;-;;-;;;31.1;1.49;cell cycle
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_RT_HEK293_GLO_24hr_viability;-;-;;-;;;31.2;1.49;cell cycle
+2,2',4,4',5-Pentabromodiphenyl ether; TOX21_RT_HEK293_GLO_16hr_viability;-;-;;-;;;31.7;1.50;cell cycle
+1-Chloronaphthalene;TOX21_RT_HEK293_FLO_40hr_viability;-;-;;-;;;37.7;1.58;cell cycle
